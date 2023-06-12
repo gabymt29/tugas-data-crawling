@@ -1,0 +1,701 @@
+,merk,price_total,price_cash,price_month,keterangan
+0,2019        Mercedes-Benz               C        300 AMG        2.0,Rp        760.000.000,Rp 780.000.000 (Cash),"Rp 15,48 jt/bln",28.856 km Automatic Tangerang Selatan
+1,2016        Mitsubishi               PAJERO SPORT        DAKAR 4X2        2.4,Rp        384.000.000,Rp 394.000.000 (Cash),"Rp 7,82 jt/bln",77.584 km Automatic Surabaya
+2,2018        Mazda               CX-9                2.5,Rp        580.000.000,Rp 595.000.000 (Cash),"Rp 11,82 jt/bln",53.282 km Automatic Jakarta Utara
+3,2020        BMW               X1        SDRIVE18I XLINE        1.5,Rp        653.000.000,Rp 670.000.000 (Cash),"Rp 13,30 jt/bln",35.681 km Automatic Jakarta Barat
+4,2018        Mercedes-Benz               GLA        200 AMG        1.6,Rp        570.000.000,Rp 585.000.000 (Cash),"Rp 11,61 jt/bln",33.013 km Automatic Bekasi
+5,2019        Mercedes-Benz               GLC        200 AMG NIGHT EDITION        2.0,Rp        901.000.000,Rp 925.000.000 (Cash),"Rp 18,36 jt/bln",28.333 km Automatic Jakarta Utara
+6,,,,,
+7,2018        Mazda               2        R SKYACTIV        1.5,Rp        196.000.000,Rp 202.000.000 (Cash),"Rp 3,99 jt/bln",57.383 km Automatic Bandung
+8,2018        Toyota               KIJANG INNOVA        V        2.0,Rp        283.000.000,Rp 291.000.000 (Cash),"Rp 5,77 jt/bln",42.336 km Manual Malang
+9,2018        Toyota               YARIS        S TRD        1.5,Rp        201.000.000,Rp 207.000.000 (Cash),"Rp 4,10 jt/bln",65.583 km Automatic Jakarta Pusat
+10,2018        Honda               BRIO        SATYA E        1.2,Rp        124.000.000,Rp 128.000.000 (Cash),"Rp 2,53 jt/bln",76.641 km Manual Bogor
+11,2018        Honda               JAZZ        RS        1.5,Rp        230.000.000,Rp 236.000.000 (Cash),"Rp 4,69 jt/bln",48.361 km Automatic Bogor
+12,2019        Mitsubishi               XPANDER        SPORT        1.5,Rp        207.000.000,Rp 213.000.000 (Cash),"Rp 4,22 jt/bln",62.352 km Automatic Jakarta Barat
+13,,,,,
+14,2021        Toyota               RUSH        S TRD        1.5,Rp        233.000.000,Rp 239.000.000 (Cash),"Rp 4,75 jt/bln",24.305 km Manual Malang
+15,2016        Honda               JAZZ        RS        1.5,Rp        204.000.000,Rp 210.000.000 (Cash),"Rp 4,16 jt/bln",50.623 km Automatic Bogor
+16,2018        Honda               BRIO        SATYA E        1.2,Rp        126.000.000,Rp 130.000.000 (Cash),"Rp 2,57 jt/bln",67.102 km Manual Bandung
+17,2017        Honda               JAZZ        RS        1.5,Rp        214.000.000,Rp 220.000.000 (Cash),"Rp 4,36 jt/bln",83.487 km Automatic Jakarta Barat
+18,2019        Mitsubishi               XPANDER        CROSS        1.5,Rp        235.000.000,Rp 242.000.000 (Cash),"Rp 4,79 jt/bln",44.040 km Automatic Jakarta Selatan
+19,2019        Toyota               VOXY                2.0,Rp        404.000.000,Rp 415.000.000 (Cash),"Rp 8,23 jt/bln",51.230 km Automatic Jakarta Selatan
+20,2019        Honda               ACCORD        TC EL        1.5,Rp        513.000.000,Rp 527.000.000 (Cash),"Rp 10,45 jt/bln",30.464 km Automatic Jakarta Barat
+21,2021        Wuling               ALMAZ        LT LUX CVT        1.5,Rp        280.000.000,Rp 288.000.000 (Cash),"Rp 5,71 jt/bln",18.872 km Automatic Surabaya
+22,2020        Honda               BRIO        SATYA E        1.2,Rp        158.000.000,Rp 163.000.000 (Cash),"Rp 3,22 jt/bln",54.099 km Automatic Bogor
+23,2021        Toyota               AVANZA        G TSS        1.5,Rp        240.000.000,Rp 247.000.000 (Cash),"Rp 4,89 jt/bln",19.997 km Automatic Surabaya
+24,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        209.000.000,Rp 215.000.000 (Cash),"Rp 4,26 jt/bln",99.995 km Automatic Jakarta Barat
+25,2020        Honda               BRIO        SATYA E        1.2,Rp        152.000.000,Rp 156.000.000 (Cash),"Rp 3,10 jt/bln",27.449 km Manual Jakarta Barat
+26,,,,,
+27,2019        Toyota               RUSH        S TRD SPORTIVO        1.5,Rp        216.000.000,Rp 222.000.000 (Cash),"Rp 4,40 jt/bln",53.524 km Automatic Depok
+28,2020        Toyota               YARIS        S TRD        1.5,Rp        228.000.000,Rp 234.000.000 (Cash),"Rp 4,65 jt/bln",54.063 km Automatic Jakarta Timur
+29,2021        Toyota               YARIS        S TRD        1.5,Rp        244.000.000,Rp 251.000.000 (Cash),"Rp 4,97 jt/bln",20.063 km Automatic Tangerang Selatan
+30,2019        Honda               BRIO        RS        1.2,Rp        175.000.000,Rp 180.000.000 (Cash),"Rp 3,57 jt/bln",60.273 km Automatic Jakarta Timur
+31,2019        Mitsubishi               XPANDER        SPORT        1.5,Rp        215.000.000,Rp 221.000.000 (Cash),"Rp 4,38 jt/bln",51.680 km Automatic Jakarta Utara
+32,2017        Honda               MOBILIO        RS        1.5,Rp        175.000.000,Rp 180.000.000 (Cash),"Rp 3,57 jt/bln",72.718 km Automatic Jakarta Pusat
+33,,,,,
+34,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        213.000.000,Rp 219.000.000 (Cash),"Rp 4,34 jt/bln",58.006 km Automatic Jakarta Selatan
+35,2014        Nissan               SERENA        HIGHWAY STAR        2.0,Rp        173.000.000,Rp 178.000.000 (Cash),"Rp 3,52 jt/bln",102.993 km Automatic Surabaya
+36,2017        Toyota               VOXY                2.0,Rp        369.000.000,Rp 379.000.000 (Cash),"Rp 7,52 jt/bln",80.853 km Automatic Jakarta Selatan
+37,2020        Toyota               RUSH        S TRD SPORTIVO        1.5,Rp        227.000.000,Rp 233.000.000 (Cash),"Rp 4,63 jt/bln",17.174 km Manual Surabaya
+38,2021        Toyota               AVANZA        G        1.3,Rp        190.000.000,Rp 195.000.000 (Cash),"Rp 3,87 jt/bln",2.951 km Manual Bekasi
+39,2016        Honda               BRIO        RS        1.2,Rp        141.000.000,Rp 145.000.000 (Cash),"Rp 2,87 jt/bln",77.934 km Automatic Tangerang Selatan
+40,2018        Mitsubishi               XPANDER        EXCEED        1.5,Rp        193.000.000,Rp 198.000.000 (Cash),"Rp 3,93 jt/bln",72.944 km Automatic Tangerang Selatan
+41,2018        Toyota               SIENTA        Q        1.5,Rp        199.000.000,Rp 205.000.000 (Cash),"Rp 4,05 jt/bln",80.755 km Automatic Jakarta Barat
+42,2020        Mitsubishi               XPANDER        CROSS PLUS        1.5,Rp        256.000.000,Rp 263.000.000 (Cash),"Rp 5,22 jt/bln",50.245 km Automatic Surabaya
+43,2019        Toyota               YARIS        G        1.5,Rp        195.000.000,Rp 200.000.000 (Cash),"Rp 3,97 jt/bln",32.921 km Automatic Jakarta Pusat
+44,2021        Toyota               KIJANG INNOVA        V        2.0,Rp        374.000.000,Rp 384.000.000 (Cash),"Rp 7,62 jt/bln",31.385 km Automatic Surabaya
+45,2021        Mitsubishi               XPANDER        CROSS PLUS        1.5,Rp        266.000.000,Rp 273.000.000 (Cash),"Rp 5,42 jt/bln",44.812 km Automatic Tangerang Selatan
+46,,,,,
+47,2018        Toyota               SIENTA        G        1.5,Rp        173.000.000,Rp 178.000.000 (Cash),"Rp 3,52 jt/bln",61.190 km Automatic Malang
+48,2020        Mitsubishi               XPANDER        CROSS PREMIUM        1.5,Rp        260.000.000,Rp 267.000.000 (Cash),"Rp 5,30 jt/bln",35.743 km Automatic Tangerang Selatan
+49,2019        Toyota               YARIS        S TRD        1.5,Rp        220.000.000,Rp 226.000.000 (Cash),"Rp 4,48 jt/bln",50.508 km Automatic Bogor
+50,2019        Nissan               LIVINA        VL        1.5,Rp        206.000.000,Rp 212.000.000 (Cash),"Rp 4,20 jt/bln",71.142 km Automatic Jakarta Utara
+51,2017        Toyota               KIJANG INNOVA        REBORN G        2.0,Rp        251.000.000,Rp 258.000.000 (Cash),"Rp 5,11 jt/bln",95.545 km Automatic Bandung
+52,2021        Toyota               RUSH        S TRD        1.5,Rp        233.000.000,Rp 239.000.000 (Cash),"Rp 4,75 jt/bln",16.256 km Manual Tangerang Selatan
+53,,,,,
+54,2019        Toyota               AVANZA        G        1.3,Rp        179.000.000,Rp 184.000.000 (Cash),"Rp 3,65 jt/bln",73.593 km Manual Bogor
+55,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        215.000.000,Rp 221.000.000 (Cash),"Rp 4,38 jt/bln",55.603 km Automatic Bekasi
+56,2019        Toyota               RUSH        S TRD SPORTIVO        1.5,Rp        219.000.000,Rp 225.000.000 (Cash),"Rp 4,46 jt/bln",59.921 km Automatic Jakarta Pusat
+57,2018        BMW               3        20I (CKD)        2.0,Rp        473.000.000,Rp 486.000.000 (Cash),"Rp 9,64 jt/bln",45.564 km Automatic Jakarta Timur
+58,2018        Toyota               YARIS        S TRD        1.5,Rp        213.000.000,Rp 219.000.000 (Cash),"Rp 4,34 jt/bln",78.114 km Automatic Bekasi
+59,2018        Daihatsu               TERIOS        R        1.5,Rp        195.000.000,Rp 200.000.000 (Cash),"Rp 3,97 jt/bln",44.805 km Manual Tangerang Selatan
+60,2018        Suzuki               IGNIS        GL MT        1.2,Rp        119.000.000,Rp 123.000.000 (Cash),"Rp 2,42 jt/bln",22.083 km Manual Jakarta Utara
+61,2021        Toyota               VIOS        G        1.5,Rp        231.000.000,Rp 237.000.000 (Cash),"Rp 4,71 jt/bln",59.457 km Automatic Jakarta Timur
+62,2015        Suzuki               ERTIGA        GX        1.4,Rp        137.000.000,Rp 141.000.000 (Cash),"Rp 2,79 jt/bln",65.958 km Manual Bekasi
+63,2019        Toyota               RUSH        S TRD SPORTIVO        1.5,Rp        214.000.000,Rp 220.000.000 (Cash),"Rp 4,36 jt/bln",59.546 km Manual Depok
+64,2019        Suzuki               BALENO        HATCHBACK        1.4,Rp        184.000.000,Rp 189.000.000 (Cash),"Rp 3,75 jt/bln",26.932 km Automatic Jakarta Selatan
+65,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        213.000.000,Rp 219.000.000 (Cash),"Rp 4,34 jt/bln",65.446 km Automatic Jakarta Selatan
+66,,,,,
+67,2021        Toyota               RAIZE        TURBO G        1.0,Rp        215.000.000,Rp 221.000.000 (Cash),"Rp 4,38 jt/bln",34.670 km Automatic Malang
+68,2019        Daihatsu               SIRION        M804RS        1.3,Rp        160.000.000,Rp 165.000.000 (Cash),"Rp 3,26 jt/bln",51.726 km Automatic Jakarta Selatan
+69,2018        Honda               BRIO        RS        1.2,Rp        152.000.000,Rp 156.000.000 (Cash),"Rp 3,10 jt/bln",61.882 km Automatic Jakarta Timur
+70,2021        Wuling               CORTEZ        S T LUX        1.5,Rp        190.000.000,Rp 195.000.000 (Cash),"Rp 3,87 jt/bln",6.246 km Automatic Jakarta Barat
+71,2019        Mitsubishi               XPANDER        CROSS        1.5,Rp        240.000.000,Rp 247.000.000 (Cash),"Rp 4,89 jt/bln",48.820 km Automatic Jakarta Pusat
+72,2021        Toyota               AVANZA        G        1.3,Rp        191.000.000,Rp 196.000.000 (Cash),"Rp 3,89 jt/bln",2.651 km Manual Jakarta Selatan
+73,,,,,
+74,2019        Mitsubishi               XPANDER        CROSS        1.5,Rp        240.000.000,Rp 247.000.000 (Cash),"Rp 4,89 jt/bln",47.904 km Automatic Jakarta Timur
+75,2019        Nissan               LIVINA        VE        1.5,Rp        194.000.000,Rp 199.000.000 (Cash),"Rp 3,95 jt/bln",40.860 km Automatic Surabaya
+76,2020        Mitsubishi               XPANDER        CROSS        1.5,Rp        249.000.000,Rp 256.000.000 (Cash),"Rp 5,07 jt/bln",35.242 km Automatic Jakarta Barat
+77,2015        Nissan               X-TRAIL                2.5,Rp        209.000.000,Rp 215.000.000 (Cash),"Rp 4,26 jt/bln",118.429 km Automatic Malang
+78,2020        Mitsubishi               XPANDER        CROSS        1.5,Rp        253.000.000,Rp 260.000.000 (Cash),"Rp 5,15 jt/bln",13.779 km Automatic Jakarta Timur
+79,2017        Toyota               KIJANG INNOVA        REBORN G        2.0,Rp        250.000.000,Rp 257.000.000 (Cash),"Rp 5,09 jt/bln",85.401 km Manual Bogor
+80,2018        Toyota               RUSH        S TRD SPORTIVO        1.5,Rp        213.000.000,Rp 219.000.000 (Cash),"Rp 4,34 jt/bln",64.361 km Automatic Jakarta Barat
+81,2019        Nissan               LIVINA        VL        1.5,Rp        207.000.000,Rp 213.000.000 (Cash),"Rp 4,22 jt/bln",63.519 km Automatic Bandung
+82,2022        Toyota               COROLLA CROSS        HYBRID        1.8,Rp        460.000.000,Rp 472.000.000 (Cash),"Rp 9,37 jt/bln",17.451 km Automatic Surabaya
+83,2021        Wuling               ALMAZ        S+T        1.5,Rp        238.000.000,Rp 245.000.000 (Cash),"Rp 4,85 jt/bln",6.643 km Automatic Jakarta Selatan
+84,2021        Toyota               AVANZA        E        1.3,Rp        182.000.000,Rp 187.000.000 (Cash),"Rp 3,71 jt/bln",39.581 km Manual Tangerang Selatan
+85,2017        Toyota               AGYA        G TRD        1.2,Rp        115.000.000,Rp 118.000.000 (Cash),"Rp 2,34 jt/bln",90.068 km Manual Bandung
+86,,,,,
+87,2017        Honda               JAZZ        RS        1.5,Rp        218.000.000,Rp 224.000.000 (Cash),"Rp 4,44 jt/bln",73.960 km Automatic Jakarta Timur
+88,2014        Mercedes-Benz               E        250 AMG        2.0,Rp        413.000.000,Rp 424.000.000 (Cash),"Rp 8,41 jt/bln",53.402 km Automatic Bandung
+89,2018        Honda               JAZZ        RS        1.5,Rp        232.000.000,Rp 238.000.000 (Cash),"Rp 4,73 jt/bln",81.960 km Automatic Bogor
+90,2021        Toyota               RUSH        G        1.5,Rp        226.000.000,Rp 232.000.000 (Cash),"Rp 4,60 jt/bln",22.304 km Automatic Tangerang Selatan
+91,2017        Honda               JAZZ        RS        1.5,Rp        220.000.000,Rp 226.000.000 (Cash),"Rp 4,48 jt/bln",55.538 km Automatic Jakarta Selatan
+92,2021        Daihatsu               ROCKY        R        1.0,Rp        209.000.000,Rp 215.000.000 (Cash),"Rp 4,26 jt/bln",22.071 km Automatic Bekasi
+93,,,,,
+94,2018        Toyota               RUSH        S TRD        1.5,Rp        206.000.000,Rp 212.000.000 (Cash),"Rp 4,20 jt/bln",30.534 km Automatic Bogor
+95,2021        Toyota               RUSH        G        1.5,Rp        224.000.000,Rp 230.000.000 (Cash),"Rp 4,56 jt/bln",32.572 km Automatic Jakarta Utara
+96,2021        Toyota               YARIS        S TRD        1.5,Rp        250.000.000,Rp 257.000.000 (Cash),"Rp 5,09 jt/bln",35.537 km Automatic Surabaya
+97,2017        Chevrolet               TRAX        TURBO LTZ        1.4,Rp        180.000.000,Rp 185.000.000 (Cash),"Rp 3,67 jt/bln",72.457 km Automatic Bekasi
+98,2019        Toyota               YARIS        S TRD        1.5,Rp        222.000.000,Rp 228.000.000 (Cash),"Rp 4,52 jt/bln",39.945 km Automatic Tangerang Selatan
+99,2021        Mitsubishi               XPANDER        CROSS PREMIUM        1.5,Rp        271.000.000,Rp 278.000.000 (Cash),"Rp 5,52 jt/bln",32.967 km Automatic Jakarta Selatan
+100,2020        Suzuki               XL7        ALPHA        1.5,Rp        214.000.000,Rp 220.000.000 (Cash),"Rp 4,36 jt/bln",64.669 km Automatic Bandung
+101,2018        Toyota               YARIS        S TRD        1.5,Rp        211.000.000,Rp 217.000.000 (Cash),"Rp 4,30 jt/bln",54.576 km Automatic Bandung
+102,2021        Toyota               AVANZA        G        1.3,Rp        192.000.000,Rp 197.000.000 (Cash),"Rp 3,91 jt/bln",3.476 km Manual Bogor
+103,2020        Honda               CIVIC        TURBO ES        1.5,Rp        446.000.000,Rp 458.000.000 (Cash),"Rp 9,09 jt/bln",19.893 km Automatic Jakarta Timur
+104,2021        Toyota               KIJANG INNOVA        V        2.0,Rp        384.000.000,Rp 394.000.000 (Cash),"Rp 7,82 jt/bln",24.315 km Automatic Bekasi
+105,2020        Honda               BRIO        SATYA E        1.2,Rp        159.000.000,Rp 164.000.000 (Cash),"Rp 3,24 jt/bln",51.347 km Automatic Bandung
+106,,,,,
+107,2020        Daihatsu               TERIOS        X        1.5,Rp        192.000.000,Rp 197.000.000 (Cash),"Rp 3,91 jt/bln",13.964 km Manual Jakarta Pusat
+108,2021        Mitsubishi               PAJERO SPORT        DAKAR 4X2        2.4,Rp        548.000.000,Rp 563.000.000 (Cash),"Rp 11,17 jt/bln",19.734 km Automatic Tangerang Selatan
+109,2021        Toyota               AVANZA        G        1.3,Rp        192.000.000,Rp 197.000.000 (Cash),"Rp 3,91 jt/bln",4.086 km Manual Jakarta Pusat
+110,2021        Toyota               RAIZE        GR SPORT        1.0,Rp        230.000.000,Rp 236.000.000 (Cash),"Rp 4,69 jt/bln",25.520 km Automatic Bogor
+111,2022        Toyota               RAIZE        GR SPORT        1.0,Rp        239.000.000,Rp 246.000.000 (Cash),"Rp 4,87 jt/bln",6.542 km Automatic Jakarta Selatan
+112,2021        Honda               BRIO        RS        1.2,Rp        173.000.000,Rp 178.000.000 (Cash),"Rp 3,52 jt/bln",7.137 km Manual Bekasi
+113,,,,,
+114,2018        Toyota               RUSH        G        1.5,Rp        194.000.000,Rp 199.000.000 (Cash),"Rp 3,95 jt/bln",77.878 km Automatic Jakarta Timur
+115,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",79.911 km Automatic Jakarta Pusat
+116,2019        Nissan               GRAND LIVINA        VL        1.5,Rp        205.000.000,Rp 211.000.000 (Cash),"Rp 4,18 jt/bln",32.963 km Automatic Tangerang Selatan
+117,2020        Toyota               KIJANG INNOVA        REBORN V DIESEL        2.4,Rp        398.000.000,Rp 409.000.000 (Cash),"Rp 8,11 jt/bln",78.060 km Automatic Bekasi
+118,2017        Toyota               YARIS        S TRD        1.5,Rp        178.000.000,Rp 183.000.000 (Cash),"Rp 3,63 jt/bln",52.610 km Automatic Bandung
+119,2019        Toyota               YARIS        S TRD        1.5,Rp        202.000.000,Rp 208.000.000 (Cash),"Rp 4,12 jt/bln",22.242 km Manual Bogor
+120,2018        Daihatsu               TERIOS        R        1.5,Rp        197.000.000,Rp 203.000.000 (Cash),"Rp 4,01 jt/bln",93.935 km Automatic Bogor
+121,2019        Honda               BRIO        RS        1.2,Rp        168.000.000,Rp 173.000.000 (Cash),"Rp 3,42 jt/bln",68.948 km Manual Tangerang Selatan
+122,2017        Toyota               KIJANG INNOVA        REBORN G        2.0,Rp        251.000.000,Rp 258.000.000 (Cash),"Rp 5,11 jt/bln",63.309 km Manual Jakarta Pusat
+123,2021        Toyota               RAIZE        GR SPORT TSS        1.0,Rp        241.000.000,Rp 248.000.000 (Cash),"Rp 4,91 jt/bln",30.269 km Automatic Jakarta Utara
+124,2022        Toyota               RAIZE        TURBO G        1.0,Rp        207.000.000,Rp 213.000.000 (Cash),"Rp 4,22 jt/bln",10.330 km Manual Bekasi
+125,2015        Honda               HR-V        S        1.5,Rp        193.000.000,Rp 198.000.000 (Cash),"Rp 3,93 jt/bln",106.076 km Manual Bogor
+126,,,,,
+127,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",88.759 km Automatic Depok
+128,2019        Mitsubishi               XPANDER        SPORT        1.5,Rp        216.000.000,Rp 222.000.000 (Cash),"Rp 4,40 jt/bln",86.206 km Automatic Surabaya
+129,2019        Toyota               AVANZA        VELOZ        1.5,Rp        194.000.000,Rp 199.000.000 (Cash),"Rp 3,95 jt/bln",72.781 km Manual Malang
+130,2019        Toyota               KIJANG INNOVA        REBORN V        2.0,Rp        321.000.000,Rp 330.000.000 (Cash),"Rp 6,54 jt/bln",79.681 km Automatic Surabaya
+131,2016        Honda               HR-V        E        1.5,Rp        221.000.000,Rp 227.000.000 (Cash),"Rp 4,50 jt/bln",56.620 km Automatic Tangerang Selatan
+132,2020        Honda               JAZZ        RS        1.5,Rp        264.000.000,Rp 271.000.000 (Cash),"Rp 5,38 jt/bln",30.114 km Automatic Surabaya
+133,,,,,
+134,2019        Toyota               YARIS        S TRD        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",45.051 km Automatic Jakarta Utara
+135,2019        Nissan               LIVINA        VL        1.5,Rp        210.000.000,Rp 216.000.000 (Cash),"Rp 4,28 jt/bln",51.618 km Automatic Jakarta Timur
+136,2021        Honda               BRIO        SATYA E        1.2,Rp        166.000.000,Rp 171.000.000 (Cash),"Rp 3,38 jt/bln",26.517 km Automatic Jakarta Pusat
+137,2018        Mitsubishi               XPANDER        SPORT        1.5,Rp        206.000.000,Rp 212.000.000 (Cash),"Rp 4,20 jt/bln",61.141 km Automatic Bogor
+138,2022        Toyota               AVANZA        G        1.5,Rp        219.000.000,Rp 225.000.000 (Cash),"Rp 4,46 jt/bln",7.705 km Manual Jakarta Pusat
+139,2021        Toyota               AVANZA        G        1.5,Rp        213.000.000,Rp 219.000.000 (Cash),"Rp 4,34 jt/bln",1.123 km Manual Bogor
+140,2022        Toyota               RUSH        S GR SPORT        1.5,Rp        259.000.000,Rp 266.000.000 (Cash),"Rp 5,28 jt/bln",4.575 km Automatic Jakarta Timur
+141,2022        Toyota               RAIZE        GR SPORT TSS        1.0,Rp        249.000.000,Rp 256.000.000 (Cash),"Rp 5,07 jt/bln",9.027 km Automatic Tangerang Selatan
+142,2021        Mitsubishi               XPANDER        EXCEED        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",46.143 km Automatic Jakarta Utara
+143,2021        Daihatsu               TERIOS        R        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",37.732 km Manual Jakarta Pusat
+144,2020        Toyota               AVANZA        G        1.3,Rp        187.000.000,Rp 192.000.000 (Cash),"Rp 3,81 jt/bln",18.096 km Manual Tangerang Selatan
+145,2021        Toyota               RAIZE        GR SPORT TSS        1.0,Rp        242.000.000,Rp 249.000.000 (Cash),"Rp 4,93 jt/bln",21.151 km Automatic Depok
+146,,,,,
+147,2019        Wuling               ALMAZ        LT LUX        1.5,Rp        218.000.000,Rp 224.000.000 (Cash),"Rp 4,44 jt/bln",50.944 km Automatic Bekasi
+148,2021        Daihatsu               ROCKY        R        1.0,Rp        210.000.000,Rp 216.000.000 (Cash),"Rp 4,28 jt/bln",36.841 km Automatic Tangerang Selatan
+149,2021        Toyota               AVANZA        G        1.3,Rp        191.000.000,Rp 196.000.000 (Cash),"Rp 3,89 jt/bln",16.360 km Manual Bekasi
+150,2021        Honda               CITY        RS HATCHBACK        1.5,Rp        269.000.000,Rp 276.000.000 (Cash),"Rp 5,48 jt/bln",13.703 km Automatic Bandung
+151,2018        Mitsubishi               XPANDER        SPORT        1.5,Rp        205.000.000,Rp 211.000.000 (Cash),"Rp 4,18 jt/bln",70.864 km Automatic Jakarta Timur
+152,2021        Mitsubishi               XPANDER        CROSS        1.5,Rp        265.000.000,Rp 272.000.000 (Cash),"Rp 5,40 jt/bln",33.631 km Automatic Bekasi
+153,,,,,
+154,2016        Honda               HR-V        S        1.5,Rp        198.000.000,Rp 204.000.000 (Cash),"Rp 4,03 jt/bln",100.793 km Automatic Bandung
+155,2017        Honda               MOBILIO        RS        1.5,Rp        175.000.000,Rp 180.000.000 (Cash),"Rp 3,57 jt/bln",102.048 km Automatic Jakarta Selatan
+156,2020        Suzuki               XL7        ALPHA        1.5,Rp        206.000.000,Rp 212.000.000 (Cash),"Rp 4,20 jt/bln",34.005 km Manual Bogor
+157,2017        Toyota               YARIS        S TRD HEYKERS        1.5,Rp        188.000.000,Rp 193.000.000 (Cash),"Rp 3,83 jt/bln",83.938 km Automatic Jakarta Selatan
+158,2018        Honda               BRIO        RS        1.2,Rp        141.000.000,Rp 145.000.000 (Cash),"Rp 2,87 jt/bln",80.163 km Manual Jakarta Barat
+159,2019        Suzuki               BALENO        HATCHBACK        1.4,Rp        183.000.000,Rp 188.000.000 (Cash),"Rp 3,73 jt/bln",31.950 km Automatic Jakarta Selatan
+160,2018        Daihatsu               AYLA        R        1.2,Rp        128.000.000,Rp 132.000.000 (Cash),"Rp 2,61 jt/bln",106.596 km Automatic Surabaya
+161,2018        Honda               MOBILIO        RS        1.5,Rp        186.000.000,Rp 191.000.000 (Cash),"Rp 3,79 jt/bln",36.060 km Automatic Bandung
+162,2019        Toyota               FORTUNER        VRZ 4X2        2.4,Rp        424.000.000,Rp 435.000.000 (Cash),"Rp 8,64 jt/bln",65.561 km Automatic Jakarta Timur
+163,2018        Toyota               RUSH        S TRD SPORTIVO        1.5,Rp        210.000.000,Rp 216.000.000 (Cash),"Rp 4,28 jt/bln",41.395 km Manual Jakarta Pusat
+164,2021        Mitsubishi               XPANDER        EXCEED        1.5,Rp        228.000.000,Rp 234.000.000 (Cash),"Rp 4,65 jt/bln",46.054 km Manual Bogor
+165,2022        Toyota               RAIZE        TURBO G        1.0,Rp        220.000.000,Rp 226.000.000 (Cash),"Rp 4,48 jt/bln",7.655 km Automatic Jakarta Selatan
+166,,,,,
+167,2022        Toyota               AVANZA        VELOZ Q TSS        1.5,Rp        274.000.000,Rp 282.000.000 (Cash),"Rp 5,58 jt/bln",15.640 km Automatic Tangerang Selatan
+168,2019        Honda               BRIO        SATYA E        1.2,Rp        157.000.000,Rp 162.000.000 (Cash),"Rp 3,20 jt/bln",29.832 km Automatic Jakarta Barat
+169,2019        Suzuki               ERTIGA        GX        1.5,Rp        178.000.000,Rp 183.000.000 (Cash),"Rp 3,63 jt/bln",49.295 km Manual Jakarta Barat
+170,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        213.000.000,Rp 219.000.000 (Cash),"Rp 4,34 jt/bln",87.741 km Automatic Tangerang Selatan
+171,2021        Toyota               RAIZE        GR SPORT        1.0,Rp        226.000.000,Rp 232.000.000 (Cash),"Rp 4,60 jt/bln",32.376 km Automatic Bekasi
+172,2018        Honda               HR-V        S        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",16.796 km Manual Bogor
+173,,,,,
+174,2021        Honda               BRIO        SATYA E        1.2,Rp        168.000.000,Rp 173.000.000 (Cash),"Rp 3,42 jt/bln",15.181 km Automatic Depok
+175,2019        Honda               BRIO        RS        1.2,Rp        180.000.000,Rp 185.000.000 (Cash),"Rp 3,67 jt/bln",16.157 km Automatic Jakarta Utara
+176,2022        Daihatsu               ROCKY        X        1.2,Rp        197.000.000,Rp 203.000.000 (Cash),"Rp 4,01 jt/bln",12.244 km Automatic Jakarta Selatan
+177,2021        Toyota               AVANZA        G        1.3,Rp        193.000.000,Rp 198.000.000 (Cash),"Rp 3,93 jt/bln",17.306 km Manual Jakarta Barat
+178,2018        Toyota               YARIS        S TRD        1.5,Rp        216.000.000,Rp 222.000.000 (Cash),"Rp 4,40 jt/bln",23.107 km Automatic Bogor
+179,2019        Wuling               ALMAZ        LT LUX        1.5,Rp        232.000.000,Rp 238.000.000 (Cash),"Rp 4,73 jt/bln",69.787 km Automatic Surabaya
+180,2019        Honda               BR-V        E        1.5,Rp        200.000.000,Rp 206.000.000 (Cash),"Rp 4,08 jt/bln",51.545 km Automatic Tangerang Selatan
+181,2018        Toyota               RUSH        S        1.5,Rp        216.000.000,Rp 222.000.000 (Cash),"Rp 4,40 jt/bln",31.972 km Automatic Jakarta Selatan
+182,2019        Honda               BRIO        SATYA E        1.2,Rp        157.000.000,Rp 162.000.000 (Cash),"Rp 3,20 jt/bln",40.953 km Automatic Jakarta Selatan
+183,2017        Toyota               SIENTA        G        1.5,Rp        156.000.000,Rp 160.000.000 (Cash),"Rp 3,18 jt/bln",89.893 km Manual Depok
+184,2019        Daihatsu               TERIOS        X        1.5,Rp        189.000.000,Rp 194.000.000 (Cash),"Rp 3,85 jt/bln",51.920 km Manual Jakarta Utara
+185,2019        Honda               MOBILIO        E        1.5,Rp        180.000.000,Rp 185.000.000 (Cash),"Rp 3,67 jt/bln",27.383 km Automatic Tangerang Selatan
+186,,,,,
+187,2016        Toyota               FORTUNER        G        2.4,Rp        355.000.000,Rp 365.000.000 (Cash),"Rp 7,23 jt/bln",89.171 km Automatic Jakarta Selatan
+188,2019        Toyota               KIJANG INNOVA        V        2.0,Rp        302.000.000,Rp 310.000.000 (Cash),"Rp 6,15 jt/bln",36.463 km Manual Surabaya
+189,2019        Daihatsu               AYLA        X        1.2,Rp        115.000.000,Rp 118.000.000 (Cash),"Rp 2,34 jt/bln",75.823 km Manual Bandung
+190,2022        Toyota               AVANZA        G        1.5,Rp        232.000.000,Rp 238.000.000 (Cash),"Rp 4,73 jt/bln",12.211 km Manual Surabaya
+191,2016        Toyota               KIJANG INNOVA        G        2.0,Rp        241.000.000,Rp 248.000.000 (Cash),"Rp 4,91 jt/bln",77.393 km Manual Bekasi
+192,2019        Toyota               RUSH        S TRD SPORTIVO        1.5,Rp        220.000.000,Rp 226.000.000 (Cash),"Rp 4,48 jt/bln",63.233 km Manual Surabaya
+193,,,,,
+194,2016        Honda               MOBILIO        E        1.5,Rp        147.000.000,Rp 151.000.000 (Cash),"Rp 3,00 jt/bln",85.763 km Manual Jakarta Selatan
+195,2016        Toyota               AVANZA        G        1.3,Rp        149.000.000,Rp 153.000.000 (Cash),"Rp 3,04 jt/bln",35.385 km Manual Surabaya
+196,2021        Toyota               YARIS        S TRD        1.5,Rp        254.000.000,Rp 261.000.000 (Cash),"Rp 5,18 jt/bln",22.192 km Automatic Depok
+197,2018        Daihatsu               AYLA        X        1.2,Rp        112.000.000,Rp 115.000.000 (Cash),"Rp 2,28 jt/bln",10.508 km Manual Jakarta Barat
+198,2019        Daihatsu               TERIOS        R DLX        1.5,Rp        199.000.000,Rp 205.000.000 (Cash),"Rp 4,05 jt/bln",40.435 km Manual Jakarta Barat
+199,2022        Toyota               RAIZE        GR SPORT        1.0,Rp        242.000.000,Rp 249.000.000 (Cash),"Rp 4,93 jt/bln",4.970 km Automatic Bandung
+200,2016        Nissan               X-TRAIL                2.5,Rp        220.000.000,Rp 226.000.000 (Cash),"Rp 4,48 jt/bln",98.575 km Automatic Bekasi
+201,2017        Honda               HR-V        E        1.5,Rp        224.000.000,Rp 230.000.000 (Cash),"Rp 4,56 jt/bln",99.539 km Automatic Jakarta Pusat
+202,2018        Toyota               RUSH        S TRD SPORTIVO        1.5,Rp        210.000.000,Rp 216.000.000 (Cash),"Rp 4,28 jt/bln",60.929 km Manual Jakarta Pusat
+203,2020        Honda               BRIO        SATYA E        1.2,Rp        162.000.000,Rp 167.000.000 (Cash),"Rp 3,30 jt/bln",23.302 km Automatic Bogor
+204,2019        Suzuki               IGNIS        GL        1.2,Rp        121.000.000,Rp 125.000.000 (Cash),"Rp 2,47 jt/bln",33.104 km Manual Tangerang Selatan
+205,2019        Honda               BRIO        RS        1.2,Rp        180.000.000,Rp 185.000.000 (Cash),"Rp 3,67 jt/bln",45.548 km Automatic Jakarta Timur
+206,,,,,
+207,2019        Honda               BRIO        SATYA E        1.2,Rp        147.000.000,Rp 151.000.000 (Cash),"Rp 3,00 jt/bln",14.842 km Manual Bandung
+208,2019        Toyota               CALYA        G        1.2,Rp        137.000.000,Rp 141.000.000 (Cash),"Rp 2,79 jt/bln",52.988 km Automatic Jakarta Barat
+209,2017        Toyota               AVANZA        E        1.3,Rp        150.000.000,Rp 154.000.000 (Cash),"Rp 3,06 jt/bln",70.052 km Automatic Surabaya
+210,2019        Honda               MOBILIO        RS        1.5,Rp        195.000.000,Rp 200.000.000 (Cash),"Rp 3,97 jt/bln",51.259 km Automatic Tangerang Selatan
+211,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        215.000.000,Rp 221.000.000 (Cash),"Rp 4,38 jt/bln",54.223 km Automatic Depok
+212,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        215.000.000,Rp 221.000.000 (Cash),"Rp 4,38 jt/bln",70.666 km Automatic Bogor
+213,,,,,
+214,2021        Wuling               ALMAZ        RS LT LUX + SC CVT        1.5,Rp        295.000.000,Rp 303.000.000 (Cash),"Rp 6,01 jt/bln",38.733 km Automatic Bekasi
+215,2021        Wuling               ALMAZ        LT LUX + SC CVT        1.5,Rp        295.000.000,Rp 303.000.000 (Cash),"Rp 6,01 jt/bln",29.075 km Automatic Bandung
+216,2017        Suzuki               SX4        S-CROSS        1.5,Rp        156.000.000,Rp 161.000.000 (Cash),"Rp 3,18 jt/bln",116.851 km Manual Jakarta Utara
+217,2020        Daihatsu               AYLA        R        1.2,Rp        124.000.000,Rp 128.000.000 (Cash),"Rp 2,53 jt/bln",20.766 km Manual Tangerang Selatan
+218,2019        Daihatsu               TERIOS        R DLX        1.5,Rp        199.000.000,Rp 205.000.000 (Cash),"Rp 4,05 jt/bln",75.568 km Manual Bogor
+219,2019        Nissan               LIVINA        E        1.5,Rp        161.000.000,Rp 166.000.000 (Cash),"Rp 3,28 jt/bln",55.420 km Manual Jakarta Timur
+220,2019        Daihatsu               TERIOS        R        1.5,Rp        204.000.000,Rp 210.000.000 (Cash),"Rp 4,16 jt/bln",53.125 km Manual Bekasi
+221,2016        Toyota               CALYA        G        1.2,Rp        119.000.000,Rp 123.000.000 (Cash),"Rp 2,42 jt/bln",97.915 km Automatic Jakarta Timur
+222,2015        Mazda               2        R SKYACTIV        1.5,Rp        172.000.000,Rp 177.000.000 (Cash),"Rp 3,50 jt/bln",67.189 km Automatic Bekasi
+223,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        214.000.000,Rp 220.000.000 (Cash),"Rp 4,36 jt/bln",86.772 km Automatic Surabaya
+224,2022        Toyota               RUSH        S GR SPORT        1.5,Rp        255.000.000,Rp 262.000.000 (Cash),"Rp 5,20 jt/bln",13.903 km Automatic Jakarta Timur
+225,2021        Toyota               COROLLA ALTIS        V        1.8,Rp        408.000.000,Rp 419.000.000 (Cash),"Rp 8,31 jt/bln",12.662 km Automatic Jakarta Timur
+226,,,,,
+227,2019        Honda               BRIO        SATYA E        1.2,Rp        158.000.000,Rp 163.000.000 (Cash),"Rp 3,22 jt/bln",24.624 km Automatic Jakarta Utara
+228,2016        Mitsubishi               OUTLANDER SPORT        PX        2.0,Rp        206.000.000,Rp 212.000.000 (Cash),"Rp 4,20 jt/bln",126.885 km Automatic Bekasi
+229,2019        Honda               BRIO        SATYA E        1.2,Rp        150.000.000,Rp 154.000.000 (Cash),"Rp 3,06 jt/bln",33.464 km Manual Bandung
+230,2016        Honda               BR-V        S        1.5,Rp        162.000.000,Rp 167.000.000 (Cash),"Rp 3,30 jt/bln",62.742 km Manual Malang
+231,2016        Toyota               AGYA        G        1.0,Rp        104.000.000,Rp 107.000.000 (Cash),"Rp 2,12 jt/bln",120.641 km Automatic Bandung
+232,2017        Daihatsu               SIGRA        R STD        1.2,Rp        115.000.000,Rp 118.000.000 (Cash),"Rp 2,34 jt/bln",43.905 km Manual Bandung
+233,,,,,
+234,2019        Honda               BRIO        RS        1.2,Rp        179.000.000,Rp 184.000.000 (Cash),"Rp 3,65 jt/bln",42.861 km Automatic Bekasi
+235,2020        Suzuki               IGNIS        GX        1.2,Rp        159.000.000,Rp 164.000.000 (Cash),"Rp 3,24 jt/bln",38.565 km Automatic Tangerang Selatan
+236,2018        Honda               BRIO        SATYA E        1.2,Rp        141.000.000,Rp 145.000.000 (Cash),"Rp 2,87 jt/bln",71.172 km Automatic Tangerang Selatan
+237,2019        Daihatsu               AYLA        R        1.2,Rp        118.000.000,Rp 122.000.000 (Cash),"Rp 2,40 jt/bln",41.982 km Manual Bekasi
+238,2017        Honda               BRIO        SATYA E        1.2,Rp        121.000.000,Rp 125.000.000 (Cash),"Rp 2,47 jt/bln",91.713 km Manual Bogor
+239,2017        Toyota               CALYA        E        1.2,Rp        113.000.000,Rp 116.000.000 (Cash),"Rp 2,30 jt/bln",95.341 km Manual Bandung
+240,2015        Daihatsu               TERIOS        R        1.5,Rp        160.000.000,Rp 165.000.000 (Cash),"Rp 3,26 jt/bln",72.753 km Manual Surabaya
+241,2015        Nissan               X-TRAIL                2.5,Rp        209.000.000,Rp 215.000.000 (Cash),"Rp 4,26 jt/bln",117.443 km Automatic Surabaya
+242,2014        Suzuki               ERTIGA        GX        1.4,Rp        138.000.000,Rp 142.000.000 (Cash),"Rp 2,81 jt/bln",121.801 km Automatic Surabaya
+243,2019        Toyota               CALYA        G        1.2,Rp        128.000.000,Rp 132.000.000 (Cash),"Rp 2,61 jt/bln",44.711 km Manual Bandung
+244,2018        Suzuki               IGNIS        GX        1.2,Rp        126.000.000,Rp 130.000.000 (Cash),"Rp 2,57 jt/bln",29.400 km Manual Bandung
+245,2019        Mitsubishi               XPANDER        SPORT        1.5,Rp        215.000.000,Rp 221.000.000 (Cash),"Rp 4,38 jt/bln",53.446 km Automatic Malang
+246,,,,,
+247,2019        Nissan               LIVINA        VL        1.5,Rp        211.000.000,Rp 217.000.000 (Cash),"Rp 4,30 jt/bln",47.566 km Automatic Malang
+248,2021        Honda               HR-V        S        1.5,Rp        278.000.000,Rp 286.000.000 (Cash),"Rp 5,66 jt/bln",33.364 km Automatic Surabaya
+249,2021        Daihatsu               ROCKY        R        1.0,Rp        213.000.000,Rp 219.000.000 (Cash),"Rp 4,34 jt/bln",18.450 km Automatic Bekasi
+250,2022        Suzuki               ERTIGA        GL        1.5,Rp        199.000.000,Rp 205.000.000 (Cash),"Rp 4,05 jt/bln",12.552 km Manual Surabaya
+251,2019        Daihatsu               SIGRA        R STD        1.2,Rp        125.000.000,Rp 129.000.000 (Cash),"Rp 2,55 jt/bln",83.563 km Manual Tangerang Selatan
+252,2017        Honda               BRIO        RS        1.2,Rp        147.000.000,Rp 151.000.000 (Cash),"Rp 3,00 jt/bln",92.707 km Automatic Depok
+253,,,,,
+254,2018        Honda               BRIO        RS        1.2,Rp        147.000.000,Rp 151.000.000 (Cash),"Rp 3,00 jt/bln",61.565 km Manual Surabaya
+255,2018        Honda               BRIO        SATYA E        1.2,Rp        134.000.000,Rp 138.000.000 (Cash),"Rp 2,73 jt/bln",57.468 km Manual Jakarta Selatan
+256,2020        Honda               BRIO        SATYA E        1.2,Rp        161.000.000,Rp 166.000.000 (Cash),"Rp 3,28 jt/bln",33.388 km Automatic Jakarta Utara
+257,2018        Daihatsu               AYLA        R DLX        1.2,Rp        122.000.000,Rp 126.000.000 (Cash),"Rp 2,49 jt/bln",37.917 km Manual Tangerang Selatan
+258,2016        Nissan               X-TRAIL                2.5,Rp        229.000.000,Rp 235.000.000 (Cash),"Rp 4,67 jt/bln",51.292 km Automatic Malang
+259,2018        Suzuki               ERTIGA        GX        1.4,Rp        169.000.000,Rp 174.000.000 (Cash),"Rp 3,44 jt/bln",60.497 km Automatic Jakarta Utara
+260,2018        Honda               BRIO        RS        1.2,Rp        154.000.000,Rp 158.000.000 (Cash),"Rp 3,14 jt/bln",80.865 km Automatic Bekasi
+261,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        219.000.000,Rp 225.000.000 (Cash),"Rp 4,46 jt/bln",68.399 km Automatic Bekasi
+262,2019        Toyota               CALYA        G        1.2,Rp        130.000.000,Rp 134.000.000 (Cash),"Rp 2,65 jt/bln",70.549 km Manual Bandung
+263,2017        Honda               BRIO        RS        1.2,Rp        136.000.000,Rp 140.000.000 (Cash),"Rp 2,77 jt/bln",78.612 km Manual Bandung
+264,2020        Suzuki               ERTIGA        GX        1.5,Rp        199.000.000,Rp 205.000.000 (Cash),"Rp 4,05 jt/bln",55.161 km Manual Tangerang Selatan
+265,2018        Suzuki               IGNIS        GX AGS        1.2,Rp        137.000.000,Rp 141.000.000 (Cash),"Rp 2,79 jt/bln",77.362 km Automatic Jakarta Pusat
+266,,,,,
+267,2014        Mazda               BIANTE        SKYACTIV        2.0,Rp        181.000.000,Rp 186.000.000 (Cash),"Rp 3,69 jt/bln",88.620 km Automatic Jakarta Utara
+268,2020        Toyota               YARIS        G        1.5,Rp        213.000.000,Rp 219.000.000 (Cash),"Rp 4,34 jt/bln",41.172 km Automatic Tangerang Selatan
+269,2018        Toyota               SIENTA        V        1.5,Rp        185.000.000,Rp 190.000.000 (Cash),"Rp 3,77 jt/bln",42.809 km Automatic Bandung
+270,2016        Mercedes-Benz               CLA        200 SPORT        1.6,Rp        475.000.000,Rp 488.000.000 (Cash),"Rp 9,68 jt/bln",47.982 km Automatic Jakarta Selatan
+271,2017        Mitsubishi               PAJERO SPORT        DAKAR 4X2        2.4,Rp        425.000.000,Rp 436.000.000 (Cash),"Rp 8,66 jt/bln",25.773 km Automatic Malang
+272,2017        Datsun               GO+ PANCA        T        1.2,Rp        84.000.000,Rp 87.000.000 (Cash),"Rp 1,71 jt/bln",114.640 km Manual Tangerang Selatan
+273,,,,,
+274,2018        Wuling               CORTEZ        L LUX        1.8,Rp        166.000.000,Rp 171.000.000 (Cash),"Rp 3,38 jt/bln",53.743 km Automatic Tangerang Selatan
+275,2021        Daihatsu               TERIOS        X DLX        1.5,Rp        204.000.000,Rp 210.000.000 (Cash),"Rp 4,16 jt/bln",50.668 km Automatic Malang
+276,2021        Honda               MOBILIO        RS        1.5,Rp        221.000.000,Rp 227.000.000 (Cash),"Rp 4,50 jt/bln",12.090 km Automatic Surabaya
+277,2019        Mazda               CX-5        ELITE        2.5,Rp        440.000.000,Rp 452.000.000 (Cash),"Rp 8,96 jt/bln",28.043 km Automatic Malang
+278,2021        Daihatsu               TERIOS        R        1.5,Rp        227.000.000,Rp 233.000.000 (Cash),"Rp 4,63 jt/bln",10.438 km Manual Surabaya
+279,2021        Daihatsu               SIGRA        R        1.2,Rp        143.000.000,Rp 147.000.000 (Cash),"Rp 2,91 jt/bln",32.178 km Automatic Bekasi
+280,2013        Nissan               GRAND LIVINA        SV        1.5,Rp        107.000.000,Rp 110.000.000 (Cash),"Rp 2,18 jt/bln",104.797 km Automatic Bogor
+281,2018        Suzuki               IGNIS        GX AGS        1.2,Rp        141.000.000,Rp 145.000.000 (Cash),"Rp 2,87 jt/bln",81.464 km Automatic Bekasi
+282,2018        Honda               CR-V        TURBO PRESTIGE        1.5,Rp        412.000.000,Rp 423.000.000 (Cash),"Rp 8,39 jt/bln",82.163 km Automatic Jakarta Timur
+283,2017        Toyota               CALYA        G        1.2,Rp        124.000.000,Rp 128.000.000 (Cash),"Rp 2,53 jt/bln",78.238 km Automatic Bogor
+284,2019        Toyota               AGYA        G STD        1.2,Rp        122.000.000,Rp 126.000.000 (Cash),"Rp 2,49 jt/bln",12.781 km Manual Tangerang Selatan
+285,2014        Suzuki               ERTIGA        GX        1.4,Rp        132.000.000,Rp 136.000.000 (Cash),"Rp 2,69 jt/bln",95.954 km Manual Bekasi
+286,,,,,
+287,2014        Daihatsu               AYLA        M        1.0,Rp        86.000.000,Rp 89.000.000 (Cash),"Rp 1,75 jt/bln",38.068 km Manual Bandung
+288,2019        Daihatsu               AYLA        R        1.2,Rp        121.000.000,Rp 125.000.000 (Cash),"Rp 2,47 jt/bln",43.292 km Manual Depok
+289,2017        Toyota               AGYA        G TRD        1.2,Rp        117.000.000,Rp 121.000.000 (Cash),"Rp 2,38 jt/bln",28.072 km Manual Jakarta Pusat
+290,2020        Daihatsu               AYLA        X        1.0,Rp        111.000.000,Rp 114.000.000 (Cash),"Rp 2,26 jt/bln",44.690 km Manual Jakarta Timur
+291,2018        Suzuki               IGNIS        GX AGS        1.2,Rp        141.000.000,Rp 145.000.000 (Cash),"Rp 2,87 jt/bln",79.098 km Automatic Bekasi
+292,2019        Daihatsu               AYLA        R        1.2,Rp        122.000.000,Rp 126.000.000 (Cash),"Rp 2,49 jt/bln",57.385 km Manual Bekasi
+293,,,,,
+294,2018        Daihatsu               AYLA        R        1.2,Rp        119.000.000,Rp 123.000.000 (Cash),"Rp 2,42 jt/bln",52.073 km Manual Tangerang Selatan
+295,2019        Honda               BRIO        RS        1.2,Rp        181.000.000,Rp 186.000.000 (Cash),"Rp 3,69 jt/bln",47.846 km Automatic Bekasi
+296,2018        Honda               BRIO        RS        1.2,Rp        144.000.000,Rp 148.000.000 (Cash),"Rp 2,93 jt/bln",51.536 km Manual Depok
+297,2018        Honda               BRIO        SATYA E        1.2,Rp        145.000.000,Rp 149.000.000 (Cash),"Rp 2,95 jt/bln",50.049 km Automatic Jakarta Selatan
+298,2019        Honda               BRIO        SATYA E        1.2,Rp        158.000.000,Rp 163.000.000 (Cash),"Rp 3,22 jt/bln",39.822 km Automatic Bogor
+299,2019        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        229.000.000,Rp 235.000.000 (Cash),"Rp 4,67 jt/bln",76.816 km Automatic Malang
+300,2020        Toyota               CALYA        G        1.2,Rp        140.000.000,Rp 144.000.000 (Cash),"Rp 2,85 jt/bln",53.086 km Manual Tangerang Selatan
+301,2018        Suzuki               ERTIGA        GX        1.5,Rp        171.000.000,Rp 176.000.000 (Cash),"Rp 3,48 jt/bln",52.200 km Manual Jakarta Timur
+302,2017        Honda               BRIO        SATYA E        1.2,Rp        136.000.000,Rp 140.000.000 (Cash),"Rp 2,77 jt/bln",52.139 km Automatic Tangerang Selatan
+303,2021        Honda               BRIO        SATYA E        1.2,Rp        172.000.000,Rp 177.000.000 (Cash),"Rp 3,50 jt/bln",26.407 km Automatic Jakarta Timur
+304,2019        Honda               BRIO        SATYA E        1.2,Rp        161.000.000,Rp 166.000.000 (Cash),"Rp 3,28 jt/bln",19.556 km Automatic Tangerang Selatan
+305,2023        Toyota               CALYA        G        1.2,Rp        175.000.000,Rp 180.000.000 (Cash),"Rp 3,57 jt/bln",4.163 km Automatic Malang
+306,,,,,
+307,2022        Wuling               CONFERO        S C MY        1.5,Rp        147.000.000,Rp 151.000.000 (Cash),"Rp 3,00 jt/bln",23.678 km Manual Malang
+308,2019        Toyota               AGYA        G TRD        1.2,Rp        139.000.000,Rp 143.000.000 (Cash),"Rp 2,83 jt/bln",98.857 km Automatic Jakarta Barat
+309,2017        Toyota               AVANZA        VELOZ        1.5,Rp        169.000.000,Rp 174.000.000 (Cash),"Rp 3,44 jt/bln",61.318 km Manual Bekasi
+310,2021        Wuling               CORTEZ        L T LUX        1.5,Rp        214.000.000,Rp 220.000.000 (Cash),"Rp 4,36 jt/bln",31.251 km Automatic Malang
+311,2020        Daihatsu               AYLA        R        1.2,Rp        129.000.000,Rp 133.000.000 (Cash),"Rp 2,63 jt/bln",48.544 km Manual Bekasi
+312,2019        Toyota               CALYA        G        1.2,Rp        130.000.000,Rp 134.000.000 (Cash),"Rp 2,65 jt/bln",61.098 km Manual Jakarta Barat
+313,,,,,
+314,2013        Honda               CITY        E        1.5,Rp        146.000.000,Rp 150.000.000 (Cash),"Rp 2,97 jt/bln",74.201 km Automatic Bogor
+315,2019        Toyota               AGYA        G TRD        1.2,Rp        127.000.000,Rp 131.000.000 (Cash),"Rp 2,59 jt/bln",46.182 km Manual Bekasi
+316,2019        Wuling               ALMAZ        LT LUX        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",58.152 km Automatic Malang
+317,2014        Toyota               ETIOS VALCO        G        1.2,Rp        105.000.000,Rp 108.000.000 (Cash),"Rp 2,14 jt/bln",50.730 km Manual Bekasi
+318,2017        Toyota               SIENTA        V        1.5,Rp        182.000.000,Rp 187.000.000 (Cash),"Rp 3,71 jt/bln",73.914 km Automatic Jakarta Timur
+319,2018        Honda               HR-V        E        1.5,Rp        248.000.000,Rp 255.000.000 (Cash),"Rp 5,05 jt/bln",67.038 km Automatic Bekasi
+320,2015        Suzuki               ERTIGA        GX        1.4,Rp        142.000.000,Rp 146.000.000 (Cash),"Rp 2,89 jt/bln",138.620 km Automatic Malang
+321,2019        Suzuki               IGNIS        GX        1.2,Rp        148.000.000,Rp 152.000.000 (Cash),"Rp 3,02 jt/bln",60.155 km Automatic Bogor
+322,2019        Wuling               ALMAZ        LT LUX        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",30.863 km Automatic Jakarta Selatan
+323,2015        Daihatsu               TERIOS        TX        1.5,Rp        148.000.000,Rp 152.000.000 (Cash),"Rp 3,02 jt/bln",118.704 km Manual Bekasi
+324,2018        Toyota               AGYA        G TRD        1.2,Rp        124.000.000,Rp 128.000.000 (Cash),"Rp 2,53 jt/bln",78.385 km Manual Bekasi
+325,2019        Toyota               CALYA        G        1.2,Rp        130.000.000,Rp 134.000.000 (Cash),"Rp 2,65 jt/bln",38.898 km Manual Bogor
+326,,,,,
+327,2019        Wuling               ALMAZ        LT LUX EXCLUSIVE        1.5,Rp        226.000.000,Rp 232.000.000 (Cash),"Rp 4,60 jt/bln",42.071 km Automatic Tangerang Selatan
+328,2017        Daihatsu               SIGRA        R STD        1.2,Rp        117.000.000,Rp 120.000.000 (Cash),"Rp 2,38 jt/bln",65.080 km Manual Depok
+329,2017        Mazda               2        GT        1.5,Rp        203.000.000,Rp 209.000.000 (Cash),"Rp 4,14 jt/bln",48.819 km Automatic Jakarta Barat
+330,2019        Daihatsu               AYLA        R        1.2,Rp        121.000.000,Rp 125.000.000 (Cash),"Rp 2,47 jt/bln",25.384 km Manual Bekasi
+331,2021        Daihatsu               GRAN MAX        D        1.5,Rp        159.000.000,Rp 164.000.000 (Cash),"Rp 3,24 jt/bln",35.989 km Manual Jakarta Selatan
+332,2018        Honda               BRIO        SATYA E        1.2,Rp        143.000.000,Rp 147.000.000 (Cash),"Rp 2,91 jt/bln",40.412 km Automatic Bandung
+333,,,,,
+334,2017        Honda               BR-V        E        1.5,Rp        176.000.000,Rp 181.000.000 (Cash),"Rp 3,59 jt/bln",107.425 km Automatic Bekasi
+335,2019        Toyota               KIJANG INNOVA        V        2.0,Rp        301.000.000,Rp 309.000.000 (Cash),"Rp 6,13 jt/bln",70.717 km Manual Bogor
+336,2018        Toyota               KIJANG INNOVA        VENTURER        2.0,Rp        335.000.000,Rp 344.000.000 (Cash),"Rp 6,83 jt/bln",87.354 km Automatic Jakarta Timur
+337,2014        Honda               BRIO        SATYA E        1.2,Rp        111.000.000,Rp 114.000.000 (Cash),"Rp 2,26 jt/bln",82.438 km Manual Jakarta Selatan
+338,2017        Honda               BRIO        RS        1.2,Rp        149.000.000,Rp 153.000.000 (Cash),"Rp 3,04 jt/bln",107.531 km Automatic Bogor
+339,2019        Toyota               AVANZA        VELOZ        1.5,Rp        200.000.000,Rp 206.000.000 (Cash),"Rp 4,08 jt/bln",15.116 km Automatic Jakarta Timur
+340,2019        Nissan               LIVINA        VL        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",18.841 km Automatic Bekasi
+341,2018        Toyota               AVANZA        VELOZ        1.5,Rp        184.000.000,Rp 189.000.000 (Cash),"Rp 3,75 jt/bln",21.352 km Manual Jakarta Selatan
+342,2019        Daihatsu               AYLA        X        1.0,Rp        106.000.000,Rp 109.000.000 (Cash),"Rp 2,16 jt/bln",14.865 km Manual Jakarta Pusat
+343,2018        Honda               MOBILIO        E        1.5,Rp        162.000.000,Rp 167.000.000 (Cash),"Rp 3,30 jt/bln",45.376 km Manual Jakarta Timur
+344,2018        Daihatsu               AYLA        R        1.2,Rp        120.000.000,Rp 124.000.000 (Cash),"Rp 2,44 jt/bln",37.343 km Manual Bogor
+345,2019        Toyota               AVANZA        G        1.3,Rp        183.000.000,Rp 188.000.000 (Cash),"Rp 3,73 jt/bln",65.172 km Automatic Jakarta Barat
+346,,,,,
+347,2013        Toyota               AVANZA        VELOZ        1.5,Rp        136.000.000,Rp 140.000.000 (Cash),"Rp 2,77 jt/bln",68.557 km Manual Depok
+348,2019        Honda               BRIO        RS        1.2,Rp        184.000.000,Rp 189.000.000 (Cash),"Rp 3,75 jt/bln",65.278 km Automatic Bogor
+349,2017        Daihatsu               AYLA        R        1.2,Rp        117.000.000,Rp 121.000.000 (Cash),"Rp 2,38 jt/bln",61.937 km Manual Jakarta Utara
+350,2019        Nissan               LIVINA        VL        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",37.246 km Automatic Bekasi
+351,2018        Chevrolet               TRAX        TURBO PREMIER        1.4,Rp        192.000.000,Rp 197.000.000 (Cash),"Rp 3,91 jt/bln",46.161 km Automatic Jakarta Selatan
+352,2016        Mitsubishi               OUTLANDER SPORT        PX        2.0,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",97.159 km Automatic Jakarta Timur
+353,,,,,
+354,2016        Daihatsu               AYLA        X        1.0,Rp        95.000.000,Rp 98.000.000 (Cash),"Rp 1,94 jt/bln",59.781 km Manual Jakarta Utara
+355,2016        Honda               BRIO        SATYA E        1.2,Rp        133.000.000,Rp 137.000.000 (Cash),"Rp 2,71 jt/bln",110.471 km Automatic Depok
+356,2014        Nissan               SERENA        HIGHWAY STAR        2.0,Rp        177.000.000,Rp 182.000.000 (Cash),"Rp 3,61 jt/bln",111.224 km Automatic Depok
+357,2017        Daihatsu               AYLA        X        1.0,Rp        98.000.000,Rp 101.000.000 (Cash),"Rp 2,00 jt/bln",48.183 km Manual Bogor
+358,2018        Honda               BR-V        PRESTIGE        1.5,Rp        201.000.000,Rp 207.000.000 (Cash),"Rp 4,10 jt/bln",29.961 km Automatic Bekasi
+359,2019        Daihatsu               AYLA        R        1.2,Rp        123.000.000,Rp 127.000.000 (Cash),"Rp 2,51 jt/bln",32.662 km Manual Bogor
+360,2017        Daihatsu               AYLA        X        1.0,Rp        98.000.000,Rp 101.000.000 (Cash),"Rp 2,00 jt/bln",35.469 km Manual Jakarta Selatan
+361,2015        Nissan               JUKE        RX        1.5,Rp        161.000.000,Rp 166.000.000 (Cash),"Rp 3,28 jt/bln",43.642 km Automatic Bekasi
+362,2022        Suzuki               ERTIGA        GL        1.5,Rp        207.000.000,Rp 213.000.000 (Cash),"Rp 4,22 jt/bln",178 km Manual Bekasi
+363,2019        Daihatsu               AYLA        X        1.0,Rp        110.000.000,Rp 113.000.000 (Cash),"Rp 2,24 jt/bln",61.708 km Manual Malang
+364,2020        Daihatsu               AYLA        R        1.2,Rp        129.000.000,Rp 133.000.000 (Cash),"Rp 2,63 jt/bln",23.476 km Manual Bekasi
+365,2018        Suzuki               IGNIS        GL AGS        1.2,Rp        128.000.000,Rp 132.000.000 (Cash),"Rp 2,61 jt/bln",64.069 km Automatic Jakarta Timur
+366,,,,,
+367,2016        Datsun               GO+ PANCA        T        1.2,Rp        82.000.000,Rp 85.000.000 (Cash),"Rp 1,67 jt/bln",61.037 km Manual Bekasi
+368,2017        Mazda               2        GT        1.5,Rp        200.000.000,Rp 206.000.000 (Cash),"Rp 4,08 jt/bln",80.723 km Automatic Depok
+369,2018        Toyota               CALYA        G        1.2,Rp        130.000.000,Rp 134.000.000 (Cash),"Rp 2,65 jt/bln",65.699 km Automatic Jakarta Pusat
+370,2017        Daihatsu               AYLA        X        1.0,Rp        98.000.000,Rp 101.000.000 (Cash),"Rp 2,00 jt/bln",100.218 km Manual Jakarta Barat
+371,2019        Suzuki               IGNIS        GX        1.2,Rp        139.000.000,Rp 143.000.000 (Cash),"Rp 2,83 jt/bln",6.532 km Manual Jakarta Selatan
+372,2018        Suzuki               IGNIS        GX        1.2,Rp        144.000.000,Rp 148.000.000 (Cash),"Rp 2,93 jt/bln",47.670 km Automatic Jakarta Timur
+373,,,,,
+374,2018        Honda               MOBILIO        RS        1.5,Rp        191.000.000,Rp 196.000.000 (Cash),"Rp 3,89 jt/bln",109.357 km Automatic Bogor
+375,2020        Daihatsu               AYLA        X        1.0,Rp        111.000.000,Rp 114.000.000 (Cash),"Rp 2,26 jt/bln",24.819 km Manual Jakarta Timur
+376,2020        Suzuki               ERTIGA        GX        1.5,Rp        200.000.000,Rp 206.000.000 (Cash),"Rp 4,08 jt/bln",17.509 km Manual Bogor
+377,2013        Toyota               AVANZA        G        1.3,Rp        127.000.000,Rp 131.000.000 (Cash),"Rp 2,59 jt/bln",52.450 km Manual Jakarta Utara
+378,2019        Honda               ODYSSEY        E        2.4,Rp        583.000.000,Rp 598.200.000 (Cash),"Rp 11,88 jt/bln",38.327 km Automatic Bandung
+379,2018        Toyota               CALYA        G        1.2,Rp        126.000.000,Rp 130.000.000 (Cash),"Rp 2,57 jt/bln",55.902 km Automatic Jakarta Selatan
+380,2019        Daihatsu               AYLA        R        1.2,Rp        123.000.000,Rp 127.000.000 (Cash),"Rp 2,51 jt/bln",10.301 km Manual Tangerang Selatan
+381,2020        Toyota               AVANZA        G        1.3,Rp        197.000.000,Rp 203.000.000 (Cash),"Rp 4,01 jt/bln",48.934 km Automatic Jakarta Pusat
+382,2017        Honda               BRIO        SATYA E        1.2,Rp        142.000.000,Rp 146.000.000 (Cash),"Rp 2,89 jt/bln",43.801 km Automatic Bandung
+383,2022        Suzuki               S-PRESSO                1.0,Rp        145.000.000,Rp 149.000.000 (Cash),"Rp 2,95 jt/bln",13.304 km Automatic Malang
+384,2019        Daihatsu               AYLA        X        1.0,Rp        107.000.000,Rp 110.000.000 (Cash),"Rp 2,18 jt/bln",43.668 km Manual Depok
+385,2018        Wuling               CONFERO        S C        1.5,Rp        115.000.000,Rp 118.000.000 (Cash),"Rp 2,34 jt/bln",52.379 km Manual Surabaya
+386,,,,,
+387,2017        Honda               CR-V        TURBO        1.5,Rp        363.000.000,Rp 373.000.000 (Cash),"Rp 7,40 jt/bln",75.302 km Automatic Jakarta Utara
+388,2018        Chevrolet               TRAX        TURBO PREMIER        1.4,Rp        195.000.000,Rp 201.000.000 (Cash),"Rp 3,97 jt/bln",68.421 km Automatic Bekasi
+389,2020        Wuling               CONFERO        2WD        1.5,Rp        122.000.000,Rp 126.000.000 (Cash),"Rp 2,49 jt/bln",18.298 km Manual Surabaya
+390,2019        Nissan               LIVINA        EL        1.5,Rp        171.000.000,Rp 176.000.000 (Cash),"Rp 3,48 jt/bln",40.857 km Manual Jakarta Pusat
+391,2019        Toyota               AGYA        G TRD        1.2,Rp        129.000.000,Rp 133.000.000 (Cash),"Rp 2,63 jt/bln",16.097 km Manual Jakarta Utara
+392,2017        Honda               MOBILIO        E        1.5,Rp        156.000.000,Rp 160.000.000 (Cash),"Rp 3,18 jt/bln",40.022 km Manual Jakarta Utara
+393,,,,,
+394,2018        Honda               HR-V        E        1.5,Rp        253.000.000,Rp 260.000.000 (Cash),"Rp 5,15 jt/bln",35.103 km Automatic Tangerang Selatan
+395,2019        Toyota               CALYA        G        1.2,Rp        138.000.000,Rp 142.000.000 (Cash),"Rp 2,81 jt/bln",33.028 km Automatic Bekasi
+396,2020        Toyota               CALYA        G        1.2,Rp        140.000.000,Rp 144.000.000 (Cash),"Rp 2,85 jt/bln",50.642 km Manual Depok
+397,2020        Suzuki               KARIMUN        GL        1.0,Rp        108.000.000,Rp 111.000.000 (Cash),"Rp 2,20 jt/bln",24.857 km Manual Depok
+398,2017        Suzuki               IGNIS        GX        1.2,Rp        132.000.000,Rp 136.000.000 (Cash),"Rp 2,69 jt/bln",25.937 km Automatic Bekasi
+399,2018        Wuling               CORTEZ        L LUX        1.8,Rp        167.000.000,Rp 172.000.000 (Cash),"Rp 3,40 jt/bln",74.790 km Automatic Jakarta Pusat
+400,2017        Wuling               CONFERO        S C        1.5,Rp        108.000.000,Rp 111.000.000 (Cash),"Rp 2,20 jt/bln",57.010 km Manual Bekasi
+401,2019        Wuling               ALMAZ        LT LUX        1.5,Rp        224.000.000,Rp 230.000.000 (Cash),"Rp 4,56 jt/bln",50.387 km Automatic Jakarta Timur
+402,2018        Suzuki               IGNIS        GX AGS        1.2,Rp        140.000.000,Rp 144.000.000 (Cash),"Rp 2,85 jt/bln",41.332 km Automatic Bogor
+403,2019        Nissan               LIVINA        VL        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",31.845 km Automatic Bekasi
+404,2018        Toyota               CALYA        G        1.2,Rp        121.000.000,Rp 125.000.000 (Cash),"Rp 2,47 jt/bln",44.516 km Manual Bekasi
+405,2019        Nissan               LIVINA        VL        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",51.268 km Automatic Jakarta Selatan
+406,,,,,
+407,2013        Suzuki               ERTIGA        GX        1.4,Rp        126.000.000,Rp 130.000.000 (Cash),"Rp 2,57 jt/bln",69.160 km Manual Jakarta Pusat
+408,2017        Daihatsu               SIGRA        R STD        1.2,Rp        121.000.000,Rp 125.000.000 (Cash),"Rp 2,47 jt/bln",62.789 km Automatic Jakarta Pusat
+409,2014        Toyota               KIJANG INNOVA        G        2.0,Rp        193.000.000,Rp 198.000.000 (Cash),"Rp 3,93 jt/bln",69.939 km Automatic Jakarta Pusat
+410,2016        Toyota               SIENTA        V        1.5,Rp        172.000.000,Rp 177.000.000 (Cash),"Rp 3,50 jt/bln",85.871 km Automatic Bekasi
+411,2018        Honda               BRIO        SATYA E        1.2,Rp        144.000.000,Rp 148.000.000 (Cash),"Rp 2,93 jt/bln",24.577 km Manual Bandung
+412,2017        Toyota               YARIS        S TRD        1.5,Rp        188.000.000,Rp 193.000.000 (Cash),"Rp 3,83 jt/bln",63.493 km Automatic Bekasi
+413,,,,,
+414,2021        Suzuki               XL7        ALPHA        1.5,Rp        232.000.000,Rp 238.000.000 (Cash),"Rp 4,73 jt/bln",20.177 km Automatic Depok
+415,2019        Daihatsu               TERIOS        R        1.5,Rp        211.000.000,Rp 217.000.000 (Cash),"Rp 4,30 jt/bln",42.320 km Manual Bekasi
+416,2020        Honda               BRIO        SATYA E        1.2,Rp        156.000.000,Rp 161.000.000 (Cash),"Rp 3,18 jt/bln",18.537 km Manual Bekasi
+417,2019        Honda               BR-V        PRESTIGE        1.5,Rp        217.000.000,Rp 223.000.000 (Cash),"Rp 4,42 jt/bln",34.319 km Automatic Jakarta Pusat
+418,2019        Wuling               CORTEZ        T LUX        1.5,Rp        184.000.000,Rp 189.000.000 (Cash),"Rp 3,75 jt/bln",93.664 km Automatic Depok
+419,2017        Suzuki               BALENO        HATCHBACK        1.4,Rp        156.000.000,Rp 161.000.000 (Cash),"Rp 3,18 jt/bln",24.622 km Manual Jakarta Pusat
+420,2017        Honda               BRIO        SATYA E        1.2,Rp        139.000.000,Rp 143.000.000 (Cash),"Rp 2,83 jt/bln",48.474 km Automatic Jakarta Pusat
+421,2020        Toyota               AGYA        G TRD        1.2,Rp        136.000.000,Rp 140.000.000 (Cash),"Rp 2,77 jt/bln",19.655 km Manual Jakarta Selatan
+422,2019        Suzuki               BALENO        HATCHBACK        1.4,Rp        189.000.000,Rp 194.000.000 (Cash),"Rp 3,85 jt/bln",32.566 km Automatic Bekasi
+423,2018        Daihatsu               XENIA        X        1.3,Rp        139.000.000,Rp 143.000.000 (Cash),"Rp 2,83 jt/bln",44.925 km Manual Bekasi
+424,2018        Daihatsu               AYLA        X        1.0,Rp        106.000.000,Rp 109.000.000 (Cash),"Rp 2,16 jt/bln",15.437 km Manual Jakarta Pusat
+425,2019        Suzuki               BALENO        HATCHBACK        1.4,Rp        187.000.000,Rp 192.000.000 (Cash),"Rp 3,81 jt/bln",80.522 km Automatic Jakarta Timur
+426,,,,,
+427,2017        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        217.000.000,Rp 223.000.000 (Cash),"Rp 4,42 jt/bln",15.474 km Automatic Bekasi
+428,2021        Toyota               RAIZE        GR        1.0,Rp        236.000.000,Rp 243.000.000 (Cash),"Rp 4,81 jt/bln",20.920 km Automatic Jakarta Pusat
+429,2018        Daihatsu               AYLA        M        1.0,Rp        105.000.000,Rp 108.000.000 (Cash),"Rp 2,14 jt/bln",11.495 km Automatic Bandung
+430,2017        Honda               HR-V        S        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",51.517 km Automatic Malang
+431,2014        Suzuki               SWIFT        GX        1.4,Rp        135.000.000,Rp 139.000.000 (Cash),"Rp 2,75 jt/bln",69.824 km Manual Malang
+432,2015        Toyota               KIJANG INNOVA        G LUX        2.0,Rp        201.000.000,Rp 207.000.000 (Cash),"Rp 4,10 jt/bln",76.568 km Automatic Jakarta Utara
+433,,,,,
+434,2019        BMW               3        20I (CKD)        2.0,Rp        551.000.000,Rp 566.000.000 (Cash),"Rp 11,23 jt/bln",47.554 km Automatic Jakarta Selatan
+435,2019        Honda               BRIO        E        1.2,Rp        151.000.000,Rp 155.000.000 (Cash),"Rp 3,08 jt/bln",47.595 km Automatic Jakarta Barat
+436,2018        Mercedes-Benz               GLC        200 AMG        2.0,Rp        744.000.000,Rp 764.000.000 (Cash),"Rp 15,16 jt/bln",14.665 km Automatic Tangerang Selatan
+437,2016        Honda               HR-V        PRESTIGE        1.8,Rp        240.000.000,Rp 247.000.000 (Cash),"Rp 4,89 jt/bln",68.570 km Automatic Jakarta Utara
+438,2018        Daihatsu               SIRION        M804RS        1.3,Rp        146.000.000,Rp 150.000.000 (Cash),"Rp 2,97 jt/bln",74.583 km Automatic Tangerang Selatan
+439,2021        Wuling               ALMAZ        S+T        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",22.535 km Automatic Bogor
+440,2018        Toyota               RUSH        S TRD SPORTIVO        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",67.454 km Automatic Jakarta Barat
+441,2018        Daihatsu               SIGRA        R STD        1.2,Rp        118.000.000,Rp 122.000.000 (Cash),"Rp 2,40 jt/bln",26.504 km Manual Bekasi
+442,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        207.000.000,Rp 213.000.000 (Cash),"Rp 4,22 jt/bln",83.528 km Automatic Jakarta Utara
+443,2020        Daihatsu               AYLA        X        1.0,Rp        109.000.000,Rp 112.000.000 (Cash),"Rp 2,22 jt/bln",7.520 km Manual Jakarta Selatan
+444,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        215.000.000,Rp 221.000.000 (Cash),"Rp 4,38 jt/bln",79.897 km Automatic Bogor
+445,2017        Honda               JAZZ        RS        1.5,Rp        214.000.000,Rp 220.000.000 (Cash),"Rp 4,36 jt/bln",81.119 km Automatic Bandung
+446,,,,,
+447,2022        Toyota               AVANZA        G        1.5,Rp        214.000.000,Rp 220.000.000 (Cash),"Rp 4,36 jt/bln",7.069 km Manual Malang
+448,2019        Wuling               ALMAZ        LT LUX        1.5,Rp        221.000.000,Rp 227.000.000 (Cash),"Rp 4,50 jt/bln",37.206 km Automatic Tangerang Selatan
+449,2018        Suzuki               ERTIGA        GX        1.4,Rp        168.000.000,Rp 173.000.000 (Cash),"Rp 3,42 jt/bln",63.393 km Automatic Tangerang Selatan
+450,2019        Suzuki               ERTIGA        GX        1.5,Rp        188.000.000,Rp 193.000.000 (Cash),"Rp 3,83 jt/bln",54.123 km Automatic Bogor
+451,2019        Wuling               ALMAZ        LT LUX        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",49.088 km Automatic Bekasi
+452,2020        Honda               BRIO        SATYA E        1.2,Rp        162.000.000,Rp 167.000.000 (Cash),"Rp 3,30 jt/bln",27.019 km Automatic Jakarta Selatan
+453,,,,,
+454,2016        Toyota               SIENTA        Q        1.5,Rp        174.000.000,Rp 179.000.000 (Cash),"Rp 3,55 jt/bln",109.537 km Automatic Jakarta Timur
+455,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        213.000.000,Rp 219.000.000 (Cash),"Rp 4,34 jt/bln",49.002 km Automatic Tangerang Selatan
+456,2020        Suzuki               BALENO        HATCHBACK        1.4,Rp        169.000.000,Rp 174.000.000 (Cash),"Rp 3,44 jt/bln",39.785 km Manual Jakarta Barat
+457,2020        Honda               BRIO        SATYA E        1.2,Rp        150.000.000,Rp 154.000.000 (Cash),"Rp 3,06 jt/bln",19.558 km Manual Bogor
+458,2017        Daihatsu               XENIA        R SPORTY        1.3,Rp        149.000.000,Rp 153.000.000 (Cash),"Rp 3,04 jt/bln",90.740 km Manual Bogor
+459,2019        Honda               BRIO        RS        1.2,Rp        166.000.000,Rp 171.000.000 (Cash),"Rp 3,38 jt/bln",8.230 km Manual Tangerang Selatan
+460,2019        Daihatsu               TERIOS        R        1.5,Rp        202.000.000,Rp 208.000.000 (Cash),"Rp 4,12 jt/bln",48.119 km Automatic Bandung
+461,2018        Suzuki               SX4        S-CROSS        1.5,Rp        197.000.000,Rp 203.000.000 (Cash),"Rp 4,01 jt/bln",53.919 km Automatic Jakarta Barat
+462,2019        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",57.340 km Automatic Bogor
+463,2019        Toyota               AGYA        G TRD        1.2,Rp        134.000.000,Rp 138.000.000 (Cash),"Rp 2,73 jt/bln",69.959 km Automatic Tangerang Selatan
+464,2016        Datsun               GO PANCA        T        1.2,Rp        81.000.000,Rp 84.000.000 (Cash),"Rp 1,65 jt/bln",96.809 km Manual Malang
+465,2019        Wuling               ALMAZ        LT LUX        1.5,Rp        227.000.000,Rp 233.000.000 (Cash),"Rp 4,63 jt/bln",26.790 km Automatic Surabaya
+466,,,,,
+467,2017        Honda               MOBILIO        RS        1.5,Rp        174.000.000,Rp 179.000.000 (Cash),"Rp 3,55 jt/bln",82.142 km Automatic Bandung
+468,2017        Honda               MOBILIO        RS        1.5,Rp        175.000.000,Rp 180.000.000 (Cash),"Rp 3,57 jt/bln",68.084 km Automatic Jakarta Barat
+469,2018        Toyota               VOXY                2.0,Rp        385.000.000,Rp 395.000.000 (Cash),"Rp 7,84 jt/bln",43.427 km Automatic Jakarta Barat
+470,2019        Daihatsu               TERIOS        X DLX        1.5,Rp        195.000.000,Rp 200.000.000 (Cash),"Rp 3,97 jt/bln",59.669 km Automatic Bekasi
+471,2021        Honda               CITY        RS HATCHBACK        1.5,Rp        273.000.000,Rp 281.000.000 (Cash),"Rp 5,56 jt/bln",7.486 km Automatic Tangerang Selatan
+472,2018        Honda               ACCORD        VTI-L        2.4,Rp        400.000.000,Rp 411.000.000 (Cash),"Rp 8,15 jt/bln",73.224 km Automatic Jakarta Timur
+473,,,,,
+474,2020        Honda               BRIO        SATYA E        1.2,Rp        150.000.000,Rp 154.000.000 (Cash),"Rp 3,06 jt/bln",30.893 km Manual Jakarta Timur
+475,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        211.000.000,Rp 217.000.000 (Cash),"Rp 4,30 jt/bln",77.105 km Automatic Bekasi
+476,2019        Honda               BRIO        SATYA E        1.2,Rp        144.000.000,Rp 148.000.000 (Cash),"Rp 2,93 jt/bln",3.500 km Manual Bogor
+477,2021        Toyota               AVANZA        VELOZ        1.5,Rp        229.000.000,Rp 235.000.000 (Cash),"Rp 4,67 jt/bln",11.570 km Automatic Bekasi
+478,2018        Honda               BRIO        SATYA E        1.2,Rp        125.000.000,Rp 129.000.000 (Cash),"Rp 2,55 jt/bln",55.241 km Manual Bandung
+479,2019        Honda               MOBILIO        RS        1.5,Rp        198.000.000,Rp 204.000.000 (Cash),"Rp 4,03 jt/bln",72.147 km Automatic Malang
+480,2020        Toyota               RUSH        S TRD SPORTIVO        1.5,Rp        233.000.000,Rp 239.000.000 (Cash),"Rp 4,75 jt/bln",45.681 km Automatic Bogor
+481,2019        Nissan               LIVINA        VL        1.5,Rp        205.000.000,Rp 211.000.000 (Cash),"Rp 4,18 jt/bln",62.001 km Automatic Jakarta Selatan
+482,2018        Daihatsu               TERIOS        R        1.5,Rp        193.000.000,Rp 198.000.000 (Cash),"Rp 3,93 jt/bln",103.404 km Manual Malang
+483,2017        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        206.000.000,Rp 212.000.000 (Cash),"Rp 4,20 jt/bln",47.907 km Automatic Bogor
+484,2019        Toyota               RUSH        G        1.5,Rp        206.000.000,Rp 212.000.000 (Cash),"Rp 4,20 jt/bln",33.190 km Automatic Jakarta Timur
+485,2017        Toyota               KIJANG INNOVA        REBORN G        2.4,Rp        308.000.000,Rp 316.000.000 (Cash),"Rp 6,28 jt/bln",23.220 km Automatic Tangerang Selatan
+486,,,,,
+487,2021        Toyota               AVANZA        G        1.3,Rp        191.000.000,Rp 196.000.000 (Cash),"Rp 3,89 jt/bln",5.471 km Manual Depok
+488,2016        Toyota               FORTUNER        VRZ        2.4,Rp        377.000.000,Rp 387.000.000 (Cash),"Rp 7,68 jt/bln",110.016 km Automatic Bogor
+489,2019        Mitsubishi               PAJERO SPORT        DAKAR 4X2        2.4,Rp        480.000.000,Rp 493.000.000 (Cash),"Rp 9,78 jt/bln",18.221 km Automatic Tangerang Selatan
+490,2019        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",55.067 km Automatic Jakarta Utara
+491,2017        Honda               CR-V        TURBO PRESTIGE        1.5,Rp        385.000.000,Rp 395.000.000 (Cash),"Rp 7,84 jt/bln",85.677 km Automatic Bogor
+492,2018        Daihatsu               TERIOS        R        1.5,Rp        197.000.000,Rp 203.000.000 (Cash),"Rp 4,01 jt/bln",79.237 km Automatic Jakarta Timur
+493,,,,,
+494,2019        Mitsubishi               PAJERO SPORT        DAKAR ULTIMATE 4X2        2.4,Rp        458.000.000,Rp 470.000.000 (Cash),"Rp 9,33 jt/bln",65.257 km Automatic Bogor
+495,2022        Toyota               VELOZ        Q TSS        1.5,Rp        286.000.000,Rp 294.000.000 (Cash),"Rp 5,83 jt/bln",6.793 km Automatic Bogor
+496,2021        Toyota               VELOZ        Q        1.5,Rp        266.000.000,Rp 273.000.000 (Cash),"Rp 5,42 jt/bln",38.494 km Automatic Tangerang Selatan
+497,2019        Daihatsu               XENIA        X STD        1.3,Rp        158.000.000,Rp 163.000.000 (Cash),"Rp 3,22 jt/bln",39.254 km Manual Jakarta Barat
+498,2021        Honda               BRIO        RS        1.2,Rp        193.000.000,Rp 198.000.000 (Cash),"Rp 3,93 jt/bln",15.046 km Automatic Tangerang Selatan
+499,2018        Daihatsu               TERIOS        R        1.5,Rp        200.000.000,Rp 206.000.000 (Cash),"Rp 4,08 jt/bln",62.827 km Automatic Depok
+500,2017        Daihatsu               AYLA        M        1.0,Rp        93.000.000,Rp 96.000.000 (Cash),"Rp 1,89 jt/bln",36.256 km Manual Jakarta Utara
+501,2018        Honda               MOBILIO        E        1.5,Rp        167.000.000,Rp 172.000.000 (Cash),"Rp 3,40 jt/bln",70.071 km Automatic Jakarta Barat
+502,2022        Suzuki               ERTIGA        GX        1.5,Rp        220.000.000,Rp 226.000.000 (Cash),"Rp 4,48 jt/bln",2.243 km Automatic Jakarta Barat
+503,2019        Honda               HR-V        E        1.5,Rp        265.000.000,Rp 272.000.000 (Cash),"Rp 5,40 jt/bln",46.859 km Automatic Bekasi
+504,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        219.000.000,Rp 225.000.000 (Cash),"Rp 4,46 jt/bln",30.267 km Automatic Jakarta Timur
+505,2019        Daihatsu               AYLA        D+        1.0,Rp        102.000.000,Rp 105.000.000 (Cash),"Rp 2,08 jt/bln",33.009 km Manual Jakarta Utara
+506,,,,,
+507,2020        Toyota               KIJANG INNOVA        G        2.0,Rp        308.000.000,Rp 316.000.000 (Cash),"Rp 6,28 jt/bln",25.992 km Automatic Tangerang Selatan
+508,2016        Toyota               KIJANG INNOVA        Q-N140        2.0,Rp        276.000.000,Rp 284.000.000 (Cash),"Rp 5,62 jt/bln",97.943 km Automatic Bandung
+509,2020        Toyota               YARIS        S TRD        1.5,Rp        233.000.000,Rp 239.000.000 (Cash),"Rp 4,75 jt/bln",15.945 km Automatic Jakarta Barat
+510,2021        Honda               CITY        RS HATCHBACK        1.5,Rp        269.000.000,Rp 276.000.000 (Cash),"Rp 5,48 jt/bln",13.461 km Automatic Jakarta Barat
+511,2016        Honda               BRIO        E        1.2,Rp        127.000.000,Rp 131.000.000 (Cash),"Rp 2,59 jt/bln",58.073 km Automatic Bogor
+512,2016        Honda               BR-V        E PRESTIGE        1.5,Rp        177.000.000,Rp 182.000.000 (Cash),"Rp 3,61 jt/bln",119.610 km Automatic Jakarta Barat
+513,,,,,
+514,2021        Toyota               RAIZE        GR TWO TONE        1.0,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",26.469 km Automatic Jakarta Barat
+515,2019        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        222.000.000,Rp 228.000.000 (Cash),"Rp 4,52 jt/bln",69.025 km Automatic Bogor
+516,2020        Mitsubishi               XPANDER        CROSS PREMIUM        1.5,Rp        260.000.000,Rp 267.000.000 (Cash),"Rp 5,30 jt/bln",17.350 km Automatic Jakarta Utara
+517,2016        Honda               HR-V        E        1.5,Rp        209.000.000,Rp 215.000.000 (Cash),"Rp 4,26 jt/bln",93.048 km Automatic Tangerang Selatan
+518,2021        Wuling               ALMAZ        RS LT LUX + SC CVT        1.5,Rp        295.000.000,Rp 303.000.000 (Cash),"Rp 6,01 jt/bln",37.579 km Automatic Tangerang Selatan
+519,2021        Toyota               VELOZ        Q        1.5,Rp        271.000.000,Rp 278.000.000 (Cash),"Rp 5,52 jt/bln",16.755 km Automatic Tangerang Selatan
+520,2021        Toyota               RUSH        S TRD        1.5,Rp        240.000.000,Rp 247.000.000 (Cash),"Rp 4,89 jt/bln",22.253 km Automatic Jakarta Utara
+521,2021        Toyota               AVANZA        G        1.3,Rp        191.000.000,Rp 196.000.000 (Cash),"Rp 3,89 jt/bln",40.655 km Automatic Jakarta Barat
+522,2018        Daihatsu               TERIOS        R        1.5,Rp        198.000.000,Rp 204.000.000 (Cash),"Rp 4,03 jt/bln",65.168 km Automatic Depok
+523,2014        Ford               FIESTA        S        1.5,Rp        124.000.000,Rp 128.000.000 (Cash),"Rp 2,53 jt/bln",104.408 km Automatic Bandung
+524,2017        Honda               HR-V        S        1.5,Rp        198.000.000,Rp 204.000.000 (Cash),"Rp 4,03 jt/bln",109.174 km Automatic Jakarta Barat
+525,2019        Suzuki               ERTIGA        GX        1.5,Rp        189.000.000,Rp 194.000.000 (Cash),"Rp 3,85 jt/bln",33.265 km Automatic Depok
+526,,,,,
+527,2017        Toyota               AVANZA        VELOZ        1.5,Rp        165.000.000,Rp 170.000.000 (Cash),"Rp 3,36 jt/bln",57.794 km Manual Bekasi
+528,2017        Honda               MOBILIO        E        1.5,Rp        155.000.000,Rp 159.000.000 (Cash),"Rp 3,16 jt/bln",28.580 km Manual Tangerang Selatan
+529,2021        Toyota               KIJANG INNOVA        G LUX        2.0,Rp        328.000.000,Rp 337.000.000 (Cash),"Rp 6,68 jt/bln",32.934 km Automatic Jakarta Barat
+530,2017        Chevrolet               TRAILBLAZER        LTZ        2.5,Rp        305.000.000,Rp 313.000.000 (Cash),"Rp 6,21 jt/bln",66.961 km Automatic Jakarta Barat
+531,2018        Wuling               CORTEZ        L LUX        1.8,Rp        148.000.000,Rp 152.000.000 (Cash),"Rp 3,02 jt/bln",41.578 km Manual Jakarta Selatan
+532,2019        Toyota               AGYA        G        1.2,Rp        120.000.000,Rp 124.000.000 (Cash),"Rp 2,44 jt/bln",30.404 km Manual Jakarta Pusat
+533,,,,,
+534,2018        Toyota               KIJANG INNOVA        REBORN G        2.0,Rp        267.000.000,Rp 274.000.000 (Cash),"Rp 5,44 jt/bln",61.309 km Automatic Jakarta Barat
+535,2018        Toyota               RUSH        S        1.5,Rp        215.000.000,Rp 221.000.000 (Cash),"Rp 4,38 jt/bln",35.210 km Automatic Bogor
+536,2022        Suzuki               ERTIGA        GL        1.5,Rp        199.000.000,Rp 205.000.000 (Cash),"Rp 4,05 jt/bln",1.352 km Manual Jakarta Barat
+537,2019        Honda               JAZZ        RS        1.5,Rp        247.000.000,Rp 254.000.000 (Cash),"Rp 5,03 jt/bln",60.409 km Automatic Depok
+538,2021        Toyota               RAIZE        GR SPORT        1.0,Rp        226.000.000,Rp 232.000.000 (Cash),"Rp 4,60 jt/bln",8.414 km Automatic Depok
+539,2021        Mitsubishi               XPANDER        EXCEED        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",41.595 km Automatic Jakarta Selatan
+540,2020        Suzuki               BALENO        HATCHBACK        1.4,Rp        174.000.000,Rp 179.000.000 (Cash),"Rp 3,55 jt/bln",11.307 km Manual Bogor
+541,2021        Toyota               AVANZA        G TSS        1.5,Rp        233.000.000,Rp 239.000.000 (Cash),"Rp 4,75 jt/bln",30.129 km Automatic Jakarta Barat
+542,2015        Toyota               YARIS        TRD SPORTIVO        1.5,Rp        170.000.000,Rp 175.000.000 (Cash),"Rp 3,46 jt/bln",99.707 km Automatic Jakarta Barat
+543,2017        Honda               BR-V        E PRESTIGE        1.5,Rp        183.000.000,Rp 188.000.000 (Cash),"Rp 3,73 jt/bln",75.046 km Automatic Bekasi
+544,2016        Chevrolet               TRAX        TURBO LTZ        1.4,Rp        156.000.000,Rp 160.000.000 (Cash),"Rp 3,18 jt/bln",114.372 km Automatic Bogor
+545,2018        Toyota               KIJANG INNOVA        REBORN V        2.4,Rp        364.000.000,Rp 374.000.000 (Cash),"Rp 7,42 jt/bln",39.691 km Automatic Bogor
+546,,,,,
+547,2019        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",37.246 km Automatic Jakarta Barat
+548,2016        Nissan               JUKE        RX BLACK INTERIOR        1.5,Rp        167.000.000,Rp 172.000.000 (Cash),"Rp 3,40 jt/bln",116.219 km Automatic Jakarta Utara
+549,2018        Suzuki               ERTIGA        DREZA        1.4,Rp        174.000.000,Rp 179.000.000 (Cash),"Rp 3,55 jt/bln",61.225 km Automatic Tangerang Selatan
+550,2018        Daihatsu               TERIOS        R        1.5,Rp        197.000.000,Rp 203.000.000 (Cash),"Rp 4,01 jt/bln",43.369 km Manual Depok
+551,2018        Toyota               RUSH        S TRD        1.5,Rp        209.000.000,Rp 215.000.000 (Cash),"Rp 4,26 jt/bln",102.703 km Automatic Tangerang Selatan
+552,2019        Toyota               YARIS        S        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",24.898 km Automatic Bogor
+553,,,,,
+554,2016        Mitsubishi               PAJERO SPORT        DAKAR 4X2        2.4,Rp        398.000.000,Rp 409.000.000 (Cash),"Rp 8,11 jt/bln",96.664 km Automatic Tangerang Selatan
+555,2013        Toyota               KIJANG INNOVA        V        2.0,Rp        178.000.000,Rp 183.000.000 (Cash),"Rp 3,63 jt/bln",108.851 km Automatic Depok
+556,2019        Mitsubishi               XPANDER        SPORT        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",78.247 km Automatic Depok
+557,2021        Toyota               AVANZA        VELOZ        1.3,Rp        204.000.000,Rp 210.000.000 (Cash),"Rp 4,16 jt/bln",27.359 km Manual Tangerang Selatan
+558,2016        Toyota               FORTUNER        VRZ        2.4,Rp        377.000.000,Rp 387.000.000 (Cash),"Rp 7,68 jt/bln",86.473 km Automatic Tangerang Selatan
+559,2019        Mitsubishi               XPANDER        EXCEED        1.5,Rp        206.000.000,Rp 212.000.000 (Cash),"Rp 4,20 jt/bln",55.378 km Automatic Jakarta Selatan
+560,2017        Mitsubishi               XPANDER        SPORT        1.5,Rp        197.000.000,Rp 203.000.000 (Cash),"Rp 4,01 jt/bln",35.973 km Automatic Bogor
+561,2018        Suzuki               ERTIGA        GX        1.5,Rp        171.000.000,Rp 176.000.000 (Cash),"Rp 3,48 jt/bln",40.578 km Manual Surabaya
+562,2019        Toyota               CALYA        G        1.2,Rp        128.000.000,Rp 132.000.000 (Cash),"Rp 2,61 jt/bln",33.981 km Manual Bekasi
+563,2019        Honda               BRIO        SATYA E        1.2,Rp        146.000.000,Rp 150.000.000 (Cash),"Rp 2,97 jt/bln",52.791 km Manual Tangerang Selatan
+564,2019        Mitsubishi               XPANDER        SPORT        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",42.737 km Automatic Tangerang Selatan
+565,2019        Honda               HR-V        SE        1.5,Rp        273.000.000,Rp 280.000.000 (Cash),"Rp 5,56 jt/bln",59.647 km Automatic Bogor
+566,,,,,
+567,2020        Honda               HR-V        SE        1.5,Rp        288.000.000,Rp 296.000.000 (Cash),"Rp 5,87 jt/bln",38.842 km Automatic Jakarta Timur
+568,2014        Honda               JAZZ        E        1.5,Rp        163.000.000,Rp 168.000.000 (Cash),"Rp 3,32 jt/bln",116.751 km Automatic Tangerang Selatan
+569,2018        Mitsubishi               XPANDER        SPORT        1.5,Rp        206.000.000,Rp 212.000.000 (Cash),"Rp 4,20 jt/bln",30.130 km Automatic Bogor
+570,2018        Mitsubishi               XPANDER        ULTIMATE        1.5,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",36.246 km Automatic Bogor
+571,2020        Toyota               AGYA        G        1.2,Rp        135.000.000,Rp 139.000.000 (Cash),"Rp 2,75 jt/bln",10.752 km Automatic Tangerang Selatan
+572,2018        Suzuki               BALENO        HATCHBACK        1.4,Rp        167.000.000,Rp 172.000.000 (Cash),"Rp 3,40 jt/bln",100.941 km Automatic Tangerang Selatan
+573,,,,,
+574,2018        Wuling               CONFERO        S L        1.5,Rp        117.000.000,Rp 120.000.000 (Cash),"Rp 2,38 jt/bln",34.332 km Manual Tangerang Selatan
+575,2019        Toyota               AVANZA        E        1.3,Rp        159.000.000,Rp 164.000.000 (Cash),"Rp 3,24 jt/bln",10.464 km Manual Jakarta Selatan
+576,2016        Toyota               SIENTA        V        1.5,Rp        171.000.000,Rp 176.000.000 (Cash),"Rp 3,48 jt/bln",74.958 km Automatic Tangerang Selatan
+577,2017        Toyota               CALYA        G        1.2,Rp        122.000.000,Rp 126.000.000 (Cash),"Rp 2,49 jt/bln",106.285 km Automatic Jakarta Selatan
+578,2019        Mitsubishi               XPANDER        SPORT        1.5,Rp        212.000.000,Rp 218.000.000 (Cash),"Rp 4,32 jt/bln",50.953 km Automatic Jakarta Utara
+579,2014        Daihatsu               XENIA        X STD        1.3,Rp        119.000.000,Rp 123.000.000 (Cash),"Rp 2,42 jt/bln",99.141 km Manual Jakarta Utara
+580,2014        Mazda               BIANTE        SKYACTIV        2.0,Rp        177.000.000,Rp 182.000.000 (Cash),"Rp 3,61 jt/bln",90.581 km Automatic Tangerang Selatan
+581,2014        Suzuki               ERTIGA        GX ELEGANT        1.4,Rp        136.000.000,Rp 140.000.000 (Cash),"Rp 2,77 jt/bln",126.831 km Manual Tangerang Selatan
+582,2017        Honda               BRIO        SATYA E        1.2,Rp        135.000.000,Rp 139.000.000 (Cash),"Rp 2,75 jt/bln",71.790 km Automatic Tangerang Selatan
+583,2015        Toyota               AGYA        G        1.0,Rp        94.000.000,Rp 97.000.000 (Cash),"Rp 1,92 jt/bln",105.684 km Manual Jakarta Barat
+584,2016        Toyota               AGYA        G        1.0,Rp        101.000.000,Rp 104.000.000 (Cash),"Rp 2,06 jt/bln",14.028 km Manual Jakarta Timur
+585,2018        Daihatsu               AYLA        X        1.0,Rp        113.000.000,Rp 116.000.000 (Cash),"Rp 2,30 jt/bln",82.241 km Automatic Bekasi
+586,,,,,
+587,2016        Daihatsu               AYLA        X        1.0,Rp        101.000.000,Rp 104.000.000 (Cash),"Rp 2,06 jt/bln",84.617 km Automatic Tangerang Selatan
+588,2020        Daihatsu               SIGRA        R STD        1.2,Rp        135.000.000,Rp 139.000.000 (Cash),"Rp 2,75 jt/bln",34.389 km Automatic Jakarta Selatan
+589,2017        Toyota               CALYA        G        1.2,Rp        122.000.000,Rp 126.000.000 (Cash),"Rp 2,49 jt/bln",66.374 km Automatic Tangerang Selatan
+590,2019        Daihatsu               TERIOS        X DLX        1.5,Rp        201.000.000,Rp 207.000.000 (Cash),"Rp 4,10 jt/bln",36.722 km Automatic Jakarta Timur
+591,2021        Daihatsu               AYLA        D+        1.0,Rp        105.000.000,Rp 108.000.000 (Cash),"Rp 2,14 jt/bln",9.664 km Manual Jakarta Timur
+592,2017        Daihatsu               SIGRA        X        1.2,Rp        116.000.000,Rp 119.000.000 (Cash),"Rp 2,36 jt/bln",41.028 km Manual Tangerang Selatan
+593,,,,,
+594,2017        Honda               BRIO        SATYA E        1.2,Rp        138.000.000,Rp 142.000.000 (Cash),"Rp 2,81 jt/bln",77.545 km Automatic Bandung
+595,2018        Daihatsu               AYLA        R        1.2,Rp        122.000.000,Rp 126.000.000 (Cash),"Rp 2,49 jt/bln",39.199 km Manual Malang
+596,2015        Toyota               AGYA        G        1.0,Rp        107.000.000,Rp 110.000.000 (Cash),"Rp 2,18 jt/bln",59.773 km Automatic Jakarta Barat
+597,2022        Honda               BRIO        SATYA E        1.2,Rp        177.000.000,Rp 182.000.000 (Cash),"Rp 3,61 jt/bln",10.231 km Automatic Tangerang Selatan
+598,2016        Toyota               AGYA        G        1.0,Rp        107.000.000,Rp 110.000.000 (Cash),"Rp 2,18 jt/bln",100.861 km Automatic Jakarta Utara
+599,2018        Daihatsu               AYLA        X        1.0,Rp        111.000.000,Rp 114.000.000 (Cash),"Rp 2,26 jt/bln",33.358 km Automatic Jakarta Utara
+600,2016        Suzuki               KARIMUN        GL        1.0,Rp        89.000.000,Rp 92.000.000 (Cash),"Rp 1,81 jt/bln",31.743 km Manual Malang
+601,2021        Daihatsu               SIGRA        D        1.0,Rp        117.000.000,Rp 120.000.000 (Cash),"Rp 2,38 jt/bln",50.351 km Manual Malang
+602,2017        Suzuki               IGNIS        GX        1.2,Rp        123.000.000,Rp 127.000.000 (Cash),"Rp 2,51 jt/bln",38.519 km Manual Jakarta Utara
+603,2019        Honda               BRIO        SATYA E        1.2,Rp        149.000.000,Rp 153.000.000 (Cash),"Rp 3,04 jt/bln",34.900 km Manual Bogor
+604,2017        Toyota               CALYA        G        1.2,Rp        123.000.000,Rp 127.000.000 (Cash),"Rp 2,51 jt/bln",59.181 km Automatic Jakarta Timur
+605,2018        Toyota               CALYA        G        1.2,Rp        128.000.000,Rp 132.000.000 (Cash),"Rp 2,61 jt/bln",29.162 km Automatic Bekasi
+606,,,,,
+607,2018        Daihatsu               AYLA        R        1.2,Rp        119.000.000,Rp 123.000.000 (Cash),"Rp 2,42 jt/bln",6.974 km Manual Jakarta Barat
+608,2019        Honda               BRIO        RS        1.2,Rp        182.000.000,Rp 187.000.000 (Cash),"Rp 3,71 jt/bln",32.180 km Automatic Jakarta Selatan
+609,2019        Wuling               CORTEZ        T LUX        1.5,Rp        187.000.000,Rp 192.000.000 (Cash),"Rp 3,81 jt/bln",26.490 km Automatic Jakarta Selatan
+610,2016        Honda               BR-V        E        1.5,Rp        173.000.000,Rp 178.000.000 (Cash),"Rp 3,52 jt/bln",74.788 km Automatic Bandung
+611,2017        Honda               MOBILIO        RS        1.5,Rp        180.000.000,Rp 185.000.000 (Cash),"Rp 3,67 jt/bln",59.887 km Automatic Tangerang Selatan
+612,2018        Wuling               CORTEZ        L LUX        1.8,Rp        169.000.000,Rp 174.000.000 (Cash),"Rp 3,44 jt/bln",30.951 km Automatic Bekasi
+613,,,,,
+614,2019        Toyota               AGYA        G TRD        1.2,Rp        139.000.000,Rp 143.000.000 (Cash),"Rp 2,83 jt/bln",42.149 km Automatic Jakarta Barat
+615,2017        Suzuki               IGNIS        GX AGS        1.2,Rp        134.000.000,Rp 138.000.000 (Cash),"Rp 2,73 jt/bln",78.382 km Automatic Bandung
+616,2018        Honda               MOBILIO        E PRESTIGE        1.5,Rp        175.000.000,Rp 180.000.000 (Cash),"Rp 3,57 jt/bln",49.930 km Automatic Jakarta Timur
+617,2017        Wuling               CONFERO        S C        1.5,Rp        112.000.000,Rp 115.000.000 (Cash),"Rp 2,28 jt/bln",45.649 km Manual Depok
+618,2017        Honda               MOBILIO        E        1.5,Rp        161.000.000,Rp 166.000.000 (Cash),"Rp 3,28 jt/bln",95.361 km Automatic Bandung
+619,2016        Nissan               X-TRAIL                2.0,Rp        201.000.000,Rp 207.000.000 (Cash),"Rp 4,10 jt/bln",72.928 km Automatic Jakarta Timur
+620,2019        Wuling               CONFERO        S C        1.5,Rp        126.000.000,Rp 130.000.000 (Cash),"Rp 2,57 jt/bln",30.726 km Manual Jakarta Utara
+621,2017        Suzuki               ERTIGA        GX        1.4,Rp        152.000.000,Rp 156.000.000 (Cash),"Rp 3,10 jt/bln",90.938 km Manual Bekasi
+622,2016        Toyota               CALYA        G        1.2,Rp        117.000.000,Rp 121.000.000 (Cash),"Rp 2,38 jt/bln",122.204 km Automatic Jakarta Barat
+623,2014        Nissan               MARCH        L        1.2,Rp        102.000.000,Rp 105.000.000 (Cash),"Rp 2,08 jt/bln",111.274 km Automatic Depok
+624,2020        Toyota               CALYA        G        1.2,Rp        140.000.000,Rp 144.000.000 (Cash),"Rp 2,85 jt/bln",42.954 km Manual Jakarta Barat
+625,2018        Datsun               CROSS                1.2,Rp        117.000.000,Rp 121.000.000 (Cash),"Rp 2,38 jt/bln",18.329 km Automatic Depok
+626,,,,,
+627,2020        Toyota               AGYA        G TRD        1.2,Rp        143.000.000,Rp 147.000.000 (Cash),"Rp 2,91 jt/bln",53.564 km Automatic Jakarta Utara
+628,2021        Toyota               AGYA        G TRD SPORTIVO        1.2,Rp        144.000.000,Rp 148.000.000 (Cash),"Rp 2,93 jt/bln",7.396 km Manual Jakarta Timur
+629,2017        Toyota               AGYA        G TRD        1.2,Rp        123.000.000,Rp 127.000.000 (Cash),"Rp 2,51 jt/bln",70.651 km Automatic Tangerang Selatan
+630,2014        Nissan               MARCH        XS        1.2,Rp        115.000.000,Rp 118.000.000 (Cash),"Rp 2,34 jt/bln",40.817 km Automatic Depok
+631,2016        Honda               BRIO        E        1.2,Rp        117.000.000,Rp 120.000.000 (Cash),"Rp 2,38 jt/bln",32.774 km Manual Bogor
+632,2021        Suzuki               BALENO        HATCHBACK        1.4,Rp        200.000.000,Rp 206.000.000 (Cash),"Rp 4,08 jt/bln",8.963 km Automatic Tangerang Selatan
+633,,,,,
+634,2015        Honda               MOBILIO        E        1.5,Rp        143.000.000,Rp 147.000.000 (Cash),"Rp 2,91 jt/bln",96.658 km Automatic Malang
+635,2017        Daihatsu               AYLA        R DLX        1.2,Rp        124.000.000,Rp 128.000.000 (Cash),"Rp 2,53 jt/bln",53.151 km Automatic Bekasi
+636,2019        Suzuki               ERTIGA        GX        1.5,Rp        179.000.000,Rp 184.000.000 (Cash),"Rp 3,65 jt/bln",42.775 km Manual Bogor
+637,2017        Honda               BRIO        SATYA E        1.2,Rp        137.000.000,Rp 141.000.000 (Cash),"Rp 2,79 jt/bln",77.811 km Automatic Jakarta Barat
+638,2018        Wuling               CONFERO        S        1.5,Rp        115.000.000,Rp 118.000.000 (Cash),"Rp 2,34 jt/bln",61.425 km Manual Tangerang Selatan
+639,2016        Honda               MOBILIO        E        1.5,Rp        151.000.000,Rp 155.000.000 (Cash),"Rp 3,08 jt/bln",82.137 km Automatic Bogor
+640,2019        Toyota               CALYA        E        1.2,Rp        122.000.000,Rp 126.000.000 (Cash),"Rp 2,49 jt/bln",45.569 km Manual Jakarta Utara
+641,2018        Mazda               2        R SKYACTIV        1.5,Rp        200.000.000,Rp 206.000.000 (Cash),"Rp 4,08 jt/bln",52.010 km Automatic Tangerang Selatan
+642,2014        Honda               MOBILIO        E        1.5,Rp        134.000.000,Rp 138.000.000 (Cash),"Rp 2,73 jt/bln",96.910 km Automatic Bogor
+643,2018        Suzuki               ERTIGA        GL        1.4,Rp        163.000.000,Rp 168.000.000 (Cash),"Rp 3,32 jt/bln",37.431 km Automatic Jakarta Timur
+644,2017        Honda               BR-V        E        1.5,Rp        180.000.000,Rp 185.000.000 (Cash),"Rp 3,67 jt/bln",81.606 km Automatic Bogor
+645,2019        Toyota               CALYA        G        1.2,Rp        137.000.000,Rp 141.000.000 (Cash),"Rp 2,79 jt/bln",54.006 km Automatic Depok
+646,,,,,
+647,2015        Suzuki               KARIMUN        GL        1.0,Rp        90.000.000,Rp 93.000.000 (Cash),"Rp 1,83 jt/bln",54.857 km Automatic Depok
+648,2021        Toyota               CALYA        G        1.2,Rp        149.000.000,Rp 153.000.000 (Cash),"Rp 3,04 jt/bln",27.669 km Automatic Bandung
+649,2017        Daihatsu               AYLA        X        1.2,Rp        117.000.000,Rp 120.000.000 (Cash),"Rp 2,38 jt/bln",39.230 km Automatic Bekasi
+650,2019        Suzuki               IGNIS        GX        1.2,Rp        152.000.000,Rp 156.000.000 (Cash),"Rp 3,10 jt/bln",13.788 km Automatic Jakarta Barat
+651,2019        Honda               BR-V        E        1.5,Rp        205.000.000,Rp 211.000.000 (Cash),"Rp 4,18 jt/bln",71.950 km Automatic Bogor
+652,2016        Toyota               CALYA        G        1.2,Rp        120.000.000,Rp 124.000.000 (Cash),"Rp 2,44 jt/bln",83.388 km Automatic Jakarta Utara
+653,,,,,
+654,2019        Toyota               CALYA        G        1.2,Rp        137.000.000,Rp 141.000.000 (Cash),"Rp 2,79 jt/bln",71.519 km Automatic Jakarta Timur
+655,2021        Honda               MOBILIO        S        1.5,Rp        165.000.000,Rp 170.000.000 (Cash),"Rp 3,36 jt/bln",16.622 km Manual Bandung
+656,2016        Honda               MOBILIO        E        1.5,Rp        147.000.000,Rp 151.000.000 (Cash),"Rp 3,00 jt/bln",81.041 km Manual Bogor
+657,2018        Toyota               AVANZA        G        1.3,Rp        160.000.000,Rp 165.000.000 (Cash),"Rp 3,26 jt/bln",38.796 km Manual Jakarta Utara
+658,2019        Honda               BRIO        SATYA E        1.2,Rp        163.000.000,Rp 168.000.000 (Cash),"Rp 3,32 jt/bln",39.181 km Automatic Jakarta Utara
+659,2018        Honda               BRIO        SATYA S        1.2,Rp        125.000.000,Rp 129.000.000 (Cash),"Rp 2,55 jt/bln",108.536 km Manual Jakarta Pusat
+660,2015        Suzuki               ERTIGA        GX        1.4,Rp        139.000.000,Rp 143.000.000 (Cash),"Rp 2,83 jt/bln",45.408 km Manual Tangerang Selatan
+661,2015        Mitsubishi               MIRAGE        LE EXCEED        1.2,Rp        115.000.000,Rp 118.000.000 (Cash),"Rp 2,34 jt/bln",125.813 km Automatic Jakarta Barat
+662,2019        Honda               CR-V        TC (CKD)        1.5,Rp        394.000.000,Rp 405.000.000 (Cash),"Rp 8,03 jt/bln",24.922 km Automatic Bekasi
+663,2018        Honda               BRIO        RS        1.2,Rp        156.000.000,Rp 161.000.000 (Cash),"Rp 3,18 jt/bln",22.223 km Automatic Jakarta Barat
+664,2021        Toyota               CALYA        G        1.2,Rp        143.000.000,Rp 147.000.000 (Cash),"Rp 2,91 jt/bln",7.336 km Manual Jakarta Timur
+665,2018        Daihatsu               SIGRA        X        1.2,Rp        117.000.000,Rp 121.000.000 (Cash),"Rp 2,38 jt/bln",23.768 km Automatic Bekasi
+666,,,,,
+667,2020        Suzuki               BALENO        HATCHBACK        1.4,Rp        202.000.000,Rp 208.000.000 (Cash),"Rp 4,12 jt/bln",21.445 km Automatic Jakarta Barat
+668,2018        Honda               BRIO        SATYA E        1.2,Rp        145.000.000,Rp 149.000.000 (Cash),"Rp 2,95 jt/bln",38.708 km Automatic Jakarta Barat
+669,2017        Toyota               AGYA        G TRD        1.2,Rp        123.000.000,Rp 127.000.000 (Cash),"Rp 2,51 jt/bln",44.878 km Automatic Tangerang Selatan
+670,2018        Suzuki               ERTIGA        GX        1.5,Rp        186.000.000,Rp 191.000.000 (Cash),"Rp 3,79 jt/bln",57.278 km Automatic Depok
+671,2019        Suzuki               CARRY        PICK UP        1.5,Rp        105.000.000,Rp 108.000.000 (Cash),"Rp 2,14 jt/bln",17.670 km Manual Bandung
+672,2015        Mitsubishi               MIRAGE        GLS SPORT        1.2,Rp        113.000.000,Rp 116.000.000 (Cash),"Rp 2,30 jt/bln",40.473 km Automatic Jakarta Selatan
+673,,,,,
+674,2016        Honda               HR-V        E        1.5,Rp        222.000.000,Rp 228.000.000 (Cash),"Rp 4,52 jt/bln",51.824 km Automatic Bogor
+675,2017        Datsun               GO+ PANCA        T        1.2,Rp        90.000.000,Rp 93.000.000 (Cash),"Rp 1,83 jt/bln",20.068 km Manual Jakarta Selatan
+676,2018        Honda               BRIO        SATYA E        1.2,Rp        143.000.000,Rp 147.000.000 (Cash),"Rp 2,91 jt/bln",47.295 km Automatic Jakarta Utara
+677,2019        Daihatsu               AYLA        R        1.2,Rp        129.000.000,Rp 133.000.000 (Cash),"Rp 2,63 jt/bln",22.917 km Automatic Jakarta Selatan
+678,2016        Suzuki               KARIMUN        GS        1.0,Rp        99.000.000,Rp 102.000.000 (Cash),"Rp 2,02 jt/bln",54.351 km Automatic Jakarta Utara
+679,2016        Nissan               MARCH        XS        1.2,Rp        117.000.000,Rp 121.000.000 (Cash),"Rp 2,38 jt/bln",121.508 km Automatic Bekasi
+680,2019        Daihatsu               SIGRA        R STD        1.2,Rp        125.000.000,Rp 129.000.000 (Cash),"Rp 2,55 jt/bln",25.825 km Manual Bekasi
+681,2019        Toyota               SIENTA        Q        1.5,Rp        220.000.000,Rp 226.000.000 (Cash),"Rp 4,48 jt/bln",44.714 km Automatic Jakarta Timur
+682,2017        Suzuki               IGNIS        GX        1.2,Rp        126.000.000,Rp 130.000.000 (Cash),"Rp 2,57 jt/bln",61.450 km Manual Depok
+683,2021        Toyota               AGYA        GR SPORT        1.2,Rp        156.000.000,Rp 161.000.000 (Cash),"Rp 3,18 jt/bln",14.869 km Automatic Surabaya
+684,2014        Toyota               ETIOS VALCO        E        1.2,Rp        103.000.000,Rp 106.000.000 (Cash),"Rp 2,10 jt/bln",44.414 km Manual Tangerang Selatan
+685,2017        Toyota               AVANZA        G        1.3,Rp        156.000.000,Rp 161.000.000 (Cash),"Rp 3,18 jt/bln",68.484 km Manual Tangerang Selatan
+686,,,,,
+687,2017        Suzuki               IGNIS        GX AGS        1.2,Rp        133.000.000,Rp 137.000.000 (Cash),"Rp 2,71 jt/bln",91.210 km Automatic Bogor
+688,2018        Nissan               GRAND LIVINA        SV        1.5,Rp        136.000.000,Rp 140.000.000 (Cash),"Rp 2,77 jt/bln",73.084 km Automatic Jakarta Barat
+689,2018        Suzuki               KARIMUN        GL        1.0,Rp        91.000.000,Rp 94.000.000 (Cash),"Rp 1,85 jt/bln",48.600 km Manual Bogor
+690,2021        Honda               CITY        RS HATCHBACK        1.5,Rp        273.000.000,Rp 281.000.000 (Cash),"Rp 5,56 jt/bln",23.167 km Automatic Jakarta Barat
+691,2021        Toyota               RAIZE        GR SPORT        1.0,Rp        223.000.000,Rp 229.000.000 (Cash),"Rp 4,54 jt/bln",3.698 km Automatic Jakarta Utara
+692,2016        Honda               HR-V        PRESTIGE        1.8,Rp        241.000.000,Rp 248.000.000 (Cash),"Rp 4,91 jt/bln",95.133 km Automatic Jakarta Barat
+693,,,,,
+694,2018        Suzuki               ERTIGA        GX        1.5,Rp        186.000.000,Rp 191.000.000 (Cash),"Rp 3,79 jt/bln",48.300 km Automatic Bogor
+695,2018        Suzuki               IGNIS        GL        1.2,Rp        129.000.000,Rp 133.000.000 (Cash),"Rp 2,63 jt/bln",44.363 km Automatic Jakarta Pusat
+696,2016        Honda               BRIO        RS        1.2,Rp        145.000.000,Rp 149.000.000 (Cash),"Rp 2,95 jt/bln",38.157 km Automatic Bandung
+697,2014        Nissan               MARCH                1.2,Rp        111.000.000,Rp 114.000.000 (Cash),"Rp 2,26 jt/bln",97.076 km Automatic Tangerang Selatan
+698,2022        Daihatsu               AYLA        X        1.0,Rp        131.000.000,Rp 135.000.000 (Cash),"Rp 2,67 jt/bln",3.226 km Automatic Jakarta Pusat
+699,2016        Honda               HR-V        S        1.5,Rp        203.000.000,Rp 209.000.000 (Cash),"Rp 4,14 jt/bln",20.517 km Automatic Bekasi
